@@ -5,10 +5,10 @@
     <num>1</num>
     <name>room#1 damp#3 1m front</name>
     <impulse_responses>
-      <ll>bathroom/education/1m/left_fl.wav</ll>
-      <lr>bathroom/education/1m/left_fr.wav</lr>
-      <rl>bathroom/education/1m/right_fl.wav</rl>
-      <rr>bathroom/education/1m/right_fr.wav</rr>
+      <ll>bathroom/education/1m/left_fl.flac</ll>
+      <lr>bathroom/education/1m/left_fr.flac</lr>
+      <rl>bathroom/education/1m/right_fl.flac</rl>
+      <rr>bathroom/education/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -46,10 +46,10 @@ Christian Bor&#223;</notes>
     <num>2</num>
     <name>room#2 damp#3 1m front</name>
     <impulse_responses>
-      <ll>livingroom/education/1m/left_fl.wav</ll>
-      <lr>livingroom/education/1m/left_fr.wav</lr>
-      <rl>livingroom/education/1m/right_fl.wav</rl>
-      <rr>livingroom/education/1m/right_fr.wav</rr>
+      <ll>livingroom/education/1m/left_fl.flac</ll>
+      <lr>livingroom/education/1m/left_fr.flac</lr>
+      <rl>livingroom/education/1m/right_fl.flac</rl>
+      <rr>livingroom/education/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -87,10 +87,10 @@ Christian Bor&#223;</notes>
     <num>3</num>
     <name>room#2 damp#3 2m front</name>
     <impulse_responses>
-      <ll>livingroom/education/2m/left_fl.wav</ll>
-      <lr>livingroom/education/2m/left_fr.wav</lr>
-      <rl>livingroom/education/2m/right_fl.wav</rl>
-      <rr>livingroom/education/2m/right_fr.wav</rr>
+      <ll>livingroom/education/2m/left_fl.flac</ll>
+      <lr>livingroom/education/2m/left_fr.flac</lr>
+      <rl>livingroom/education/2m/right_fl.flac</rl>
+      <rr>livingroom/education/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -128,10 +128,10 @@ Christian Bor&#223;</notes>
     <num>4</num>
     <name>studio damp#3 1m front</name>
     <impulse_responses>
-      <ll>studio/education/1m/left_fl.wav</ll>
-      <lr>studio/education/1m/left_fr.wav</lr>
-      <rl>studio/education/1m/right_fl.wav</rl>
-      <rr>studio/education/1m/right_fr.wav</rr>
+      <ll>studio/education/1m/left_fl.flac</ll>
+      <lr>studio/education/1m/left_fr.flac</lr>
+      <rl>studio/education/1m/right_fl.flac</rl>
+      <rr>studio/education/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -169,10 +169,10 @@ Christian Bor&#223;</notes>
     <num>5</num>
     <name>studio damp#3 2m front</name>
     <impulse_responses>
-      <ll>studio/education/2m/left_fl.wav</ll>
-      <lr>studio/education/2m/left_fr.wav</lr>
-      <rl>studio/education/2m/right_fl.wav</rl>
-      <rr>studio/education/2m/right_fr.wav</rr>
+      <ll>studio/education/2m/left_fl.flac</ll>
+      <lr>studio/education/2m/left_fr.flac</lr>
+      <rl>studio/education/2m/right_fl.flac</rl>
+      <rr>studio/education/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -210,10 +210,10 @@ Christian Bor&#223;</notes>
     <num>6</num>
     <name>hall#1 damp#3 1m front</name>
     <impulse_responses>
-      <ll>small_concert_hall/education/1m/left_fl.wav</ll>
-      <lr>small_concert_hall/education/1m/left_fr.wav</lr>
-      <rl>small_concert_hall/education/1m/right_fl.wav</rl>
-      <rr>small_concert_hall/education/1m/right_fr.wav</rr>
+      <ll>small_concert_hall/education/1m/left_fl.flac</ll>
+      <lr>small_concert_hall/education/1m/left_fr.flac</lr>
+      <rl>small_concert_hall/education/1m/right_fl.flac</rl>
+      <rr>small_concert_hall/education/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -251,10 +251,10 @@ Christian Bor&#223;</notes>
     <num>7</num>
     <name>hall#1 damp#3 2m front</name>
     <impulse_responses>
-      <ll>small_concert_hall/education/2m/left_fl.wav</ll>
-      <lr>small_concert_hall/education/2m/left_fr.wav</lr>
-      <rl>small_concert_hall/education/2m/right_fl.wav</rl>
-      <rr>small_concert_hall/education/2m/right_fr.wav</rr>
+      <ll>small_concert_hall/education/2m/left_fl.flac</ll>
+      <lr>small_concert_hall/education/2m/left_fr.flac</lr>
+      <rl>small_concert_hall/education/2m/right_fl.flac</rl>
+      <rr>small_concert_hall/education/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -292,10 +292,10 @@ Christian Bor&#223;</notes>
     <num>8</num>
     <name>hall#1 damp#3 4m front</name>
     <impulse_responses>
-      <ll>small_concert_hall/education/4m/left_fl.wav</ll>
-      <lr>small_concert_hall/education/4m/left_fr.wav</lr>
-      <rl>small_concert_hall/education/4m/right_fl.wav</rl>
-      <rr>small_concert_hall/education/4m/right_fr.wav</rr>
+      <ll>small_concert_hall/education/4m/left_fl.flac</ll>
+      <lr>small_concert_hall/education/4m/left_fr.flac</lr>
+      <rl>small_concert_hall/education/4m/right_fl.flac</rl>
+      <rr>small_concert_hall/education/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -333,10 +333,10 @@ Christian Bor&#223;</notes>
     <num>9</num>
     <name>hall#2 damp#3 1m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/education/1m/left_fl.wav</ll>
-      <lr>large_concert_hall/education/1m/left_fr.wav</lr>
-      <rl>large_concert_hall/education/1m/right_fl.wav</rl>
-      <rr>large_concert_hall/education/1m/right_fr.wav</rr>
+      <ll>large_concert_hall/education/1m/left_fl.flac</ll>
+      <lr>large_concert_hall/education/1m/left_fr.flac</lr>
+      <rl>large_concert_hall/education/1m/right_fl.flac</rl>
+      <rr>large_concert_hall/education/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -374,10 +374,10 @@ Christian Bor&#223;</notes>
     <num>10</num>
     <name>hall#2 damp#3 2m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/education/2m/left_fl.wav</ll>
-      <lr>large_concert_hall/education/2m/left_fr.wav</lr>
-      <rl>large_concert_hall/education/2m/right_fl.wav</rl>
-      <rr>large_concert_hall/education/2m/right_fr.wav</rr>
+      <ll>large_concert_hall/education/2m/left_fl.flac</ll>
+      <lr>large_concert_hall/education/2m/left_fr.flac</lr>
+      <rl>large_concert_hall/education/2m/right_fl.flac</rl>
+      <rr>large_concert_hall/education/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -415,10 +415,10 @@ Christian Bor&#223;</notes>
     <num>11</num>
     <name>hall#2 damp#3 4m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/education/4m/left_fl.wav</ll>
-      <lr>large_concert_hall/education/4m/left_fr.wav</lr>
-      <rl>large_concert_hall/education/4m/right_fl.wav</rl>
-      <rr>large_concert_hall/education/4m/right_fr.wav</rr>
+      <ll>large_concert_hall/education/4m/left_fl.flac</ll>
+      <lr>large_concert_hall/education/4m/left_fr.flac</lr>
+      <rl>large_concert_hall/education/4m/right_fl.flac</rl>
+      <rr>large_concert_hall/education/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -456,10 +456,10 @@ Christian Bor&#223;</notes>
     <num>12</num>
     <name>hall#2 damp#3 8m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/education/8m/left_fl.wav</ll>
-      <lr>large_concert_hall/education/8m/left_fr.wav</lr>
-      <rl>large_concert_hall/education/8m/right_fl.wav</rl>
-      <rr>large_concert_hall/education/8m/right_fr.wav</rr>
+      <ll>large_concert_hall/education/8m/left_fl.flac</ll>
+      <lr>large_concert_hall/education/8m/left_fr.flac</lr>
+      <rl>large_concert_hall/education/8m/right_fl.flac</rl>
+      <rr>large_concert_hall/education/8m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -497,10 +497,10 @@ Christian Bor&#223;</notes>
     <num>13</num>
     <name>hall#3 damp#3 1m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/1m/left_fl.wav</ll>
-      <lr>huge_concert_hall/education/1m/left_fr.wav</lr>
-      <rl>huge_concert_hall/education/1m/right_fl.wav</rl>
-      <rr>huge_concert_hall/education/1m/right_fr.wav</rr>
+      <ll>huge_concert_hall/education/1m/left_fl.flac</ll>
+      <lr>huge_concert_hall/education/1m/left_fr.flac</lr>
+      <rl>huge_concert_hall/education/1m/right_fl.flac</rl>
+      <rr>huge_concert_hall/education/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -538,10 +538,10 @@ Christian Bor&#223;</notes>
     <num>14</num>
     <name>hall#3 damp#3 2m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/2m/left_fl.wav</ll>
-      <lr>huge_concert_hall/education/2m/left_fr.wav</lr>
-      <rl>huge_concert_hall/education/2m/right_fl.wav</rl>
-      <rr>huge_concert_hall/education/2m/right_fr.wav</rr>
+      <ll>huge_concert_hall/education/2m/left_fl.flac</ll>
+      <lr>huge_concert_hall/education/2m/left_fr.flac</lr>
+      <rl>huge_concert_hall/education/2m/right_fl.flac</rl>
+      <rr>huge_concert_hall/education/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -579,10 +579,10 @@ Christian Bor&#223;</notes>
     <num>15</num>
     <name>hall#3 damp#3 4m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/4m/left_fl.wav</ll>
-      <lr>huge_concert_hall/education/4m/left_fr.wav</lr>
-      <rl>huge_concert_hall/education/4m/right_fl.wav</rl>
-      <rr>huge_concert_hall/education/4m/right_fr.wav</rr>
+      <ll>huge_concert_hall/education/4m/left_fl.flac</ll>
+      <lr>huge_concert_hall/education/4m/left_fr.flac</lr>
+      <rl>huge_concert_hall/education/4m/right_fl.flac</rl>
+      <rr>huge_concert_hall/education/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -620,10 +620,10 @@ Christian Bor&#223;</notes>
     <num>16</num>
     <name>hall#3 damp#3 8m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/8m/left_fl.wav</ll>
-      <lr>huge_concert_hall/education/8m/left_fr.wav</lr>
-      <rl>huge_concert_hall/education/8m/right_fl.wav</rl>
-      <rr>huge_concert_hall/education/8m/right_fr.wav</rr>
+      <ll>huge_concert_hall/education/8m/left_fl.flac</ll>
+      <lr>huge_concert_hall/education/8m/left_fr.flac</lr>
+      <rl>huge_concert_hall/education/8m/right_fl.flac</rl>
+      <rr>huge_concert_hall/education/8m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -661,10 +661,10 @@ Christian Bor&#223;</notes>
     <num>17</num>
     <name>hall#3 damp#3 16m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/16m/left_fl.wav</ll>
-      <lr>huge_concert_hall/education/16m/left_fr.wav</lr>
-      <rl>huge_concert_hall/education/16m/right_fl.wav</rl>
-      <rr>huge_concert_hall/education/16m/right_fr.wav</rr>
+      <ll>huge_concert_hall/education/16m/left_fl.flac</ll>
+      <lr>huge_concert_hall/education/16m/left_fr.flac</lr>
+      <rl>huge_concert_hall/education/16m/right_fl.flac</rl>
+      <rr>huge_concert_hall/education/16m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -702,10 +702,10 @@ Christian Bor&#223;</notes>
     <num>18</num>
     <name>room#1 damp#2 1m front</name>
     <impulse_responses>
-      <ll>bathroom/speech/1m/left_fl.wav</ll>
-      <lr>bathroom/speech/1m/left_fr.wav</lr>
-      <rl>bathroom/speech/1m/right_fl.wav</rl>
-      <rr>bathroom/speech/1m/right_fr.wav</rr>
+      <ll>bathroom/speech/1m/left_fl.flac</ll>
+      <lr>bathroom/speech/1m/left_fr.flac</lr>
+      <rl>bathroom/speech/1m/right_fl.flac</rl>
+      <rr>bathroom/speech/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -743,10 +743,10 @@ Christian Bor&#223;</notes>
     <num>19</num>
     <name>room#2 damp#2 1m front</name>
     <impulse_responses>
-      <ll>livingroom/speech/1m/left_fl.wav</ll>
-      <lr>livingroom/speech/1m/left_fr.wav</lr>
-      <rl>livingroom/speech/1m/right_fl.wav</rl>
-      <rr>livingroom/speech/1m/right_fr.wav</rr>
+      <ll>livingroom/speech/1m/left_fl.flac</ll>
+      <lr>livingroom/speech/1m/left_fr.flac</lr>
+      <rl>livingroom/speech/1m/right_fl.flac</rl>
+      <rr>livingroom/speech/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -784,10 +784,10 @@ Christian Bor&#223;</notes>
     <num>20</num>
     <name>room#2 damp#2 2m front</name>
     <impulse_responses>
-      <ll>livingroom/speech/2m/left_fl.wav</ll>
-      <lr>livingroom/speech/2m/left_fr.wav</lr>
-      <rl>livingroom/speech/2m/right_fl.wav</rl>
-      <rr>livingroom/speech/2m/right_fr.wav</rr>
+      <ll>livingroom/speech/2m/left_fl.flac</ll>
+      <lr>livingroom/speech/2m/left_fr.flac</lr>
+      <rl>livingroom/speech/2m/right_fl.flac</rl>
+      <rr>livingroom/speech/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -825,10 +825,10 @@ Christian Bor&#223;</notes>
     <num>21</num>
     <name>studio damp#2 1m front</name>
     <impulse_responses>
-      <ll>studio/speech/1m/left_fl.wav</ll>
-      <lr>studio/speech/1m/left_fr.wav</lr>
-      <rl>studio/speech/1m/right_fl.wav</rl>
-      <rr>studio/speech/1m/right_fr.wav</rr>
+      <ll>studio/speech/1m/left_fl.flac</ll>
+      <lr>studio/speech/1m/left_fr.flac</lr>
+      <rl>studio/speech/1m/right_fl.flac</rl>
+      <rr>studio/speech/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -866,10 +866,10 @@ Christian Bor&#223;</notes>
     <num>22</num>
     <name>studio damp#2 2m front</name>
     <impulse_responses>
-      <ll>studio/speech/2m/left_fl.wav</ll>
-      <lr>studio/speech/2m/left_fr.wav</lr>
-      <rl>studio/speech/2m/right_fl.wav</rl>
-      <rr>studio/speech/2m/right_fr.wav</rr>
+      <ll>studio/speech/2m/left_fl.flac</ll>
+      <lr>studio/speech/2m/left_fr.flac</lr>
+      <rl>studio/speech/2m/right_fl.flac</rl>
+      <rr>studio/speech/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -907,10 +907,10 @@ Christian Bor&#223;</notes>
     <num>23</num>
     <name>hall#1 damp#2 1m front</name>
     <impulse_responses>
-      <ll>small_concert_hall/speech/1m/left_fl.wav</ll>
-      <lr>small_concert_hall/speech/1m/left_fr.wav</lr>
-      <rl>small_concert_hall/speech/1m/right_fl.wav</rl>
-      <rr>small_concert_hall/speech/1m/right_fr.wav</rr>
+      <ll>small_concert_hall/speech/1m/left_fl.flac</ll>
+      <lr>small_concert_hall/speech/1m/left_fr.flac</lr>
+      <rl>small_concert_hall/speech/1m/right_fl.flac</rl>
+      <rr>small_concert_hall/speech/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -948,10 +948,10 @@ Christian Bor&#223;</notes>
     <num>24</num>
     <name>hall#1 damp#2 2m front</name>
     <impulse_responses>
-      <ll>small_concert_hall/speech/2m/left_fl.wav</ll>
-      <lr>small_concert_hall/speech/2m/left_fr.wav</lr>
-      <rl>small_concert_hall/speech/2m/right_fl.wav</rl>
-      <rr>small_concert_hall/speech/2m/right_fr.wav</rr>
+      <ll>small_concert_hall/speech/2m/left_fl.flac</ll>
+      <lr>small_concert_hall/speech/2m/left_fr.flac</lr>
+      <rl>small_concert_hall/speech/2m/right_fl.flac</rl>
+      <rr>small_concert_hall/speech/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -989,10 +989,10 @@ Christian Bor&#223;</notes>
     <num>25</num>
     <name>hall#1 damp#2 4m front</name>
     <impulse_responses>
-      <ll>small_concert_hall/speech/4m/left_fl.wav</ll>
-      <lr>small_concert_hall/speech/4m/left_fr.wav</lr>
-      <rl>small_concert_hall/speech/4m/right_fl.wav</rl>
-      <rr>small_concert_hall/speech/4m/right_fr.wav</rr>
+      <ll>small_concert_hall/speech/4m/left_fl.flac</ll>
+      <lr>small_concert_hall/speech/4m/left_fr.flac</lr>
+      <rl>small_concert_hall/speech/4m/right_fl.flac</rl>
+      <rr>small_concert_hall/speech/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1030,10 +1030,10 @@ Christian Bor&#223;</notes>
     <num>26</num>
     <name>hall#2 damp#2 1m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/speech/1m/left_fl.wav</ll>
-      <lr>large_concert_hall/speech/1m/left_fr.wav</lr>
-      <rl>large_concert_hall/speech/1m/right_fl.wav</rl>
-      <rr>large_concert_hall/speech/1m/right_fr.wav</rr>
+      <ll>large_concert_hall/speech/1m/left_fl.flac</ll>
+      <lr>large_concert_hall/speech/1m/left_fr.flac</lr>
+      <rl>large_concert_hall/speech/1m/right_fl.flac</rl>
+      <rr>large_concert_hall/speech/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1071,10 +1071,10 @@ Christian Bor&#223;</notes>
     <num>27</num>
     <name>hall#2 damp#2 2m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/speech/2m/left_fl.wav</ll>
-      <lr>large_concert_hall/speech/2m/left_fr.wav</lr>
-      <rl>large_concert_hall/speech/2m/right_fl.wav</rl>
-      <rr>large_concert_hall/speech/2m/right_fr.wav</rr>
+      <ll>large_concert_hall/speech/2m/left_fl.flac</ll>
+      <lr>large_concert_hall/speech/2m/left_fr.flac</lr>
+      <rl>large_concert_hall/speech/2m/right_fl.flac</rl>
+      <rr>large_concert_hall/speech/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1112,10 +1112,10 @@ Christian Bor&#223;</notes>
     <num>28</num>
     <name>hall#2 damp#2 4m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/speech/4m/left_fl.wav</ll>
-      <lr>large_concert_hall/speech/4m/left_fr.wav</lr>
-      <rl>large_concert_hall/speech/4m/right_fl.wav</rl>
-      <rr>large_concert_hall/speech/4m/right_fr.wav</rr>
+      <ll>large_concert_hall/speech/4m/left_fl.flac</ll>
+      <lr>large_concert_hall/speech/4m/left_fr.flac</lr>
+      <rl>large_concert_hall/speech/4m/right_fl.flac</rl>
+      <rr>large_concert_hall/speech/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1153,10 +1153,10 @@ Christian Bor&#223;</notes>
     <num>29</num>
     <name>hall#2 damp#2 8m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/speech/8m/left_fl.wav</ll>
-      <lr>large_concert_hall/speech/8m/left_fr.wav</lr>
-      <rl>large_concert_hall/speech/8m/right_fl.wav</rl>
-      <rr>large_concert_hall/speech/8m/right_fr.wav</rr>
+      <ll>large_concert_hall/speech/8m/left_fl.flac</ll>
+      <lr>large_concert_hall/speech/8m/left_fr.flac</lr>
+      <rl>large_concert_hall/speech/8m/right_fl.flac</rl>
+      <rr>large_concert_hall/speech/8m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1194,10 +1194,10 @@ Christian Bor&#223;</notes>
     <num>30</num>
     <name>hall#3 damp#2 1m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/1m/left_fl.wav</ll>
-      <lr>huge_concert_hall/speech/1m/left_fr.wav</lr>
-      <rl>huge_concert_hall/speech/1m/right_fl.wav</rl>
-      <rr>huge_concert_hall/speech/1m/right_fr.wav</rr>
+      <ll>huge_concert_hall/speech/1m/left_fl.flac</ll>
+      <lr>huge_concert_hall/speech/1m/left_fr.flac</lr>
+      <rl>huge_concert_hall/speech/1m/right_fl.flac</rl>
+      <rr>huge_concert_hall/speech/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1235,10 +1235,10 @@ Christian Bor&#223;</notes>
     <num>31</num>
     <name>hall#3 damp#2 2m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/2m/left_fl.wav</ll>
-      <lr>huge_concert_hall/speech/2m/left_fr.wav</lr>
-      <rl>huge_concert_hall/speech/2m/right_fl.wav</rl>
-      <rr>huge_concert_hall/speech/2m/right_fr.wav</rr>
+      <ll>huge_concert_hall/speech/2m/left_fl.flac</ll>
+      <lr>huge_concert_hall/speech/2m/left_fr.flac</lr>
+      <rl>huge_concert_hall/speech/2m/right_fl.flac</rl>
+      <rr>huge_concert_hall/speech/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1276,10 +1276,10 @@ Christian Bor&#223;</notes>
     <num>32</num>
     <name>hall#3 damp#2 4m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/4m/left_fl.wav</ll>
-      <lr>huge_concert_hall/speech/4m/left_fr.wav</lr>
-      <rl>huge_concert_hall/speech/4m/right_fl.wav</rl>
-      <rr>huge_concert_hall/speech/4m/right_fr.wav</rr>
+      <ll>huge_concert_hall/speech/4m/left_fl.flac</ll>
+      <lr>huge_concert_hall/speech/4m/left_fr.flac</lr>
+      <rl>huge_concert_hall/speech/4m/right_fl.flac</rl>
+      <rr>huge_concert_hall/speech/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1317,10 +1317,10 @@ Christian Bor&#223;</notes>
     <num>33</num>
     <name>hall#3 damp#2 8m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/8m/left_fl.wav</ll>
-      <lr>huge_concert_hall/speech/8m/left_fr.wav</lr>
-      <rl>huge_concert_hall/speech/8m/right_fl.wav</rl>
-      <rr>huge_concert_hall/speech/8m/right_fr.wav</rr>
+      <ll>huge_concert_hall/speech/8m/left_fl.flac</ll>
+      <lr>huge_concert_hall/speech/8m/left_fr.flac</lr>
+      <rl>huge_concert_hall/speech/8m/right_fl.flac</rl>
+      <rr>huge_concert_hall/speech/8m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1358,10 +1358,10 @@ Christian Bor&#223;</notes>
     <num>34</num>
     <name>hall#3 damp#2 16m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/16m/left_fl.wav</ll>
-      <lr>huge_concert_hall/speech/16m/left_fr.wav</lr>
-      <rl>huge_concert_hall/speech/16m/right_fl.wav</rl>
-      <rr>huge_concert_hall/speech/16m/right_fr.wav</rr>
+      <ll>huge_concert_hall/speech/16m/left_fl.flac</ll>
+      <lr>huge_concert_hall/speech/16m/left_fr.flac</lr>
+      <rl>huge_concert_hall/speech/16m/right_fl.flac</rl>
+      <rr>huge_concert_hall/speech/16m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1399,10 +1399,10 @@ Christian Bor&#223;</notes>
     <num>35</num>
     <name>room#1 damp#1 1m front</name>
     <impulse_responses>
-      <ll>bathroom/music/1m/left_fl.wav</ll>
-      <lr>bathroom/music/1m/left_fr.wav</lr>
-      <rl>bathroom/music/1m/right_fl.wav</rl>
-      <rr>bathroom/music/1m/right_fr.wav</rr>
+      <ll>bathroom/music/1m/left_fl.flac</ll>
+      <lr>bathroom/music/1m/left_fr.flac</lr>
+      <rl>bathroom/music/1m/right_fl.flac</rl>
+      <rr>bathroom/music/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1440,10 +1440,10 @@ Christian Bor&#223;</notes>
     <num>36</num>
     <name>room#2 damp#1 1m front</name>
     <impulse_responses>
-      <ll>livingroom/music/1m/left_fl.wav</ll>
-      <lr>livingroom/music/1m/left_fr.wav</lr>
-      <rl>livingroom/music/1m/right_fl.wav</rl>
-      <rr>livingroom/music/1m/right_fr.wav</rr>
+      <ll>livingroom/music/1m/left_fl.flac</ll>
+      <lr>livingroom/music/1m/left_fr.flac</lr>
+      <rl>livingroom/music/1m/right_fl.flac</rl>
+      <rr>livingroom/music/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1481,10 +1481,10 @@ Christian Bor&#223;</notes>
     <num>37</num>
     <name>room#2 damp#1 2m front</name>
     <impulse_responses>
-      <ll>livingroom/music/2m/left_fl.wav</ll>
-      <lr>livingroom/music/2m/left_fr.wav</lr>
-      <rl>livingroom/music/2m/right_fl.wav</rl>
-      <rr>livingroom/music/2m/right_fr.wav</rr>
+      <ll>livingroom/music/2m/left_fl.flac</ll>
+      <lr>livingroom/music/2m/left_fr.flac</lr>
+      <rl>livingroom/music/2m/right_fl.flac</rl>
+      <rr>livingroom/music/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1522,10 +1522,10 @@ Christian Bor&#223;</notes>
     <num>38</num>
     <name>studio damp#1 1m front</name>
     <impulse_responses>
-      <ll>studio/music/1m/left_fl.wav</ll>
-      <lr>studio/music/1m/left_fr.wav</lr>
-      <rl>studio/music/1m/right_fl.wav</rl>
-      <rr>studio/music/1m/right_fr.wav</rr>
+      <ll>studio/music/1m/left_fl.flac</ll>
+      <lr>studio/music/1m/left_fr.flac</lr>
+      <rl>studio/music/1m/right_fl.flac</rl>
+      <rr>studio/music/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1563,10 +1563,10 @@ Christian Bor&#223;</notes>
     <num>39</num>
     <name>studio damp#1 2m front</name>
     <impulse_responses>
-      <ll>studio/music/2m/left_fl.wav</ll>
-      <lr>studio/music/2m/left_fr.wav</lr>
-      <rl>studio/music/2m/right_fl.wav</rl>
-      <rr>studio/music/2m/right_fr.wav</rr>
+      <ll>studio/music/2m/left_fl.flac</ll>
+      <lr>studio/music/2m/left_fr.flac</lr>
+      <rl>studio/music/2m/right_fl.flac</rl>
+      <rr>studio/music/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1604,10 +1604,10 @@ Christian Bor&#223;</notes>
     <num>40</num>
     <name>hall#1 damp#1 1m front</name>
     <impulse_responses>
-      <ll>small_concert_hall/music/1m/left_fl.wav</ll>
-      <lr>small_concert_hall/music/1m/left_fr.wav</lr>
-      <rl>small_concert_hall/music/1m/right_fl.wav</rl>
-      <rr>small_concert_hall/music/1m/right_fr.wav</rr>
+      <ll>small_concert_hall/music/1m/left_fl.flac</ll>
+      <lr>small_concert_hall/music/1m/left_fr.flac</lr>
+      <rl>small_concert_hall/music/1m/right_fl.flac</rl>
+      <rr>small_concert_hall/music/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1645,10 +1645,10 @@ Christian Bor&#223;</notes>
     <num>41</num>
     <name>hall#1 damp#1 2m front</name>
     <impulse_responses>
-      <ll>small_concert_hall/music/2m/left_fl.wav</ll>
-      <lr>small_concert_hall/music/2m/left_fr.wav</lr>
-      <rl>small_concert_hall/music/2m/right_fl.wav</rl>
-      <rr>small_concert_hall/music/2m/right_fr.wav</rr>
+      <ll>small_concert_hall/music/2m/left_fl.flac</ll>
+      <lr>small_concert_hall/music/2m/left_fr.flac</lr>
+      <rl>small_concert_hall/music/2m/right_fl.flac</rl>
+      <rr>small_concert_hall/music/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1686,10 +1686,10 @@ Christian Bor&#223;</notes>
     <num>42</num>
     <name>hall#1 damp#1 4m front</name>
     <impulse_responses>
-      <ll>small_concert_hall/music/4m/left_fl.wav</ll>
-      <lr>small_concert_hall/music/4m/left_fr.wav</lr>
-      <rl>small_concert_hall/music/4m/right_fl.wav</rl>
-      <rr>small_concert_hall/music/4m/right_fr.wav</rr>
+      <ll>small_concert_hall/music/4m/left_fl.flac</ll>
+      <lr>small_concert_hall/music/4m/left_fr.flac</lr>
+      <rl>small_concert_hall/music/4m/right_fl.flac</rl>
+      <rr>small_concert_hall/music/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1727,10 +1727,10 @@ Christian Bor&#223;</notes>
     <num>43</num>
     <name>hall#2 damp#1 1m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/music/1m/left_fl.wav</ll>
-      <lr>large_concert_hall/music/1m/left_fr.wav</lr>
-      <rl>large_concert_hall/music/1m/right_fl.wav</rl>
-      <rr>large_concert_hall/music/1m/right_fr.wav</rr>
+      <ll>large_concert_hall/music/1m/left_fl.flac</ll>
+      <lr>large_concert_hall/music/1m/left_fr.flac</lr>
+      <rl>large_concert_hall/music/1m/right_fl.flac</rl>
+      <rr>large_concert_hall/music/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1768,10 +1768,10 @@ Christian Bor&#223;</notes>
     <num>44</num>
     <name>hall#2 damp#1 2m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/music/2m/left_fl.wav</ll>
-      <lr>large_concert_hall/music/2m/left_fr.wav</lr>
-      <rl>large_concert_hall/music/2m/right_fl.wav</rl>
-      <rr>large_concert_hall/music/2m/right_fr.wav</rr>
+      <ll>large_concert_hall/music/2m/left_fl.flac</ll>
+      <lr>large_concert_hall/music/2m/left_fr.flac</lr>
+      <rl>large_concert_hall/music/2m/right_fl.flac</rl>
+      <rr>large_concert_hall/music/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1809,10 +1809,10 @@ Christian Bor&#223;</notes>
     <num>45</num>
     <name>hall#2 damp#1 4m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/music/4m/left_fl.wav</ll>
-      <lr>large_concert_hall/music/4m/left_fr.wav</lr>
-      <rl>large_concert_hall/music/4m/right_fl.wav</rl>
-      <rr>large_concert_hall/music/4m/right_fr.wav</rr>
+      <ll>large_concert_hall/music/4m/left_fl.flac</ll>
+      <lr>large_concert_hall/music/4m/left_fr.flac</lr>
+      <rl>large_concert_hall/music/4m/right_fl.flac</rl>
+      <rr>large_concert_hall/music/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1850,10 +1850,10 @@ Christian Bor&#223;</notes>
     <num>46</num>
     <name>hall#2 damp#1 8m front</name>
     <impulse_responses>
-      <ll>large_concert_hall/music/8m/left_fl.wav</ll>
-      <lr>large_concert_hall/music/8m/left_fr.wav</lr>
-      <rl>large_concert_hall/music/8m/right_fl.wav</rl>
-      <rr>large_concert_hall/music/8m/right_fr.wav</rr>
+      <ll>large_concert_hall/music/8m/left_fl.flac</ll>
+      <lr>large_concert_hall/music/8m/left_fr.flac</lr>
+      <rl>large_concert_hall/music/8m/right_fl.flac</rl>
+      <rr>large_concert_hall/music/8m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1891,10 +1891,10 @@ Christian Bor&#223;</notes>
     <num>47</num>
     <name>hall#3 damp#1 1m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/1m/left_fl.wav</ll>
-      <lr>huge_concert_hall/music/1m/left_fr.wav</lr>
-      <rl>huge_concert_hall/music/1m/right_fl.wav</rl>
-      <rr>huge_concert_hall/music/1m/right_fr.wav</rr>
+      <ll>huge_concert_hall/music/1m/left_fl.flac</ll>
+      <lr>huge_concert_hall/music/1m/left_fr.flac</lr>
+      <rl>huge_concert_hall/music/1m/right_fl.flac</rl>
+      <rr>huge_concert_hall/music/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1932,10 +1932,10 @@ Christian Bor&#223;</notes>
     <num>48</num>
     <name>hall#3 damp#1 2m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/2m/left_fl.wav</ll>
-      <lr>huge_concert_hall/music/2m/left_fr.wav</lr>
-      <rl>huge_concert_hall/music/2m/right_fl.wav</rl>
-      <rr>huge_concert_hall/music/2m/right_fr.wav</rr>
+      <ll>huge_concert_hall/music/2m/left_fl.flac</ll>
+      <lr>huge_concert_hall/music/2m/left_fr.flac</lr>
+      <rl>huge_concert_hall/music/2m/right_fl.flac</rl>
+      <rr>huge_concert_hall/music/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -1973,10 +1973,10 @@ Christian Bor&#223;</notes>
     <num>49</num>
     <name>hall#3 damp#1 4m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/4m/left_fl.wav</ll>
-      <lr>huge_concert_hall/music/4m/left_fr.wav</lr>
-      <rl>huge_concert_hall/music/4m/right_fl.wav</rl>
-      <rr>huge_concert_hall/music/4m/right_fr.wav</rr>
+      <ll>huge_concert_hall/music/4m/left_fl.flac</ll>
+      <lr>huge_concert_hall/music/4m/left_fr.flac</lr>
+      <rl>huge_concert_hall/music/4m/right_fl.flac</rl>
+      <rr>huge_concert_hall/music/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2014,10 +2014,10 @@ Christian Bor&#223;</notes>
     <num>50</num>
     <name>hall#3 damp#1 8m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/8m/left_fl.wav</ll>
-      <lr>huge_concert_hall/music/8m/left_fr.wav</lr>
-      <rl>huge_concert_hall/music/8m/right_fl.wav</rl>
-      <rr>huge_concert_hall/music/8m/right_fr.wav</rr>
+      <ll>huge_concert_hall/music/8m/left_fl.flac</ll>
+      <lr>huge_concert_hall/music/8m/left_fr.flac</lr>
+      <rl>huge_concert_hall/music/8m/right_fl.flac</rl>
+      <rr>huge_concert_hall/music/8m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2055,10 +2055,10 @@ Christian Bor&#223;</notes>
     <num>51</num>
     <name>hall#3 damp#1 16m front</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/16m/left_fl.wav</ll>
-      <lr>huge_concert_hall/music/16m/left_fr.wav</lr>
-      <rl>huge_concert_hall/music/16m/right_fl.wav</rl>
-      <rr>huge_concert_hall/music/16m/right_fr.wav</rr>
+      <ll>huge_concert_hall/music/16m/left_fl.flac</ll>
+      <lr>huge_concert_hall/music/16m/left_fr.flac</lr>
+      <rl>huge_concert_hall/music/16m/right_fl.flac</rl>
+      <rr>huge_concert_hall/music/16m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2096,10 +2096,10 @@ Christian Bor&#223;</notes>
     <num>52</num>
     <name>church damp#2 1m front</name>
     <impulse_responses>
-      <ll>church/speech/1m/left_fl.wav</ll>
-      <lr>church/speech/1m/left_fr.wav</lr>
-      <rl>church/speech/1m/right_fl.wav</rl>
-      <rr>church/speech/1m/right_fr.wav</rr>
+      <ll>church/speech/1m/left_fl.flac</ll>
+      <lr>church/speech/1m/left_fr.flac</lr>
+      <rl>church/speech/1m/right_fl.flac</rl>
+      <rr>church/speech/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2137,10 +2137,10 @@ Christian Bor&#223;</notes>
     <num>53</num>
     <name>church damp#2 2m front</name>
     <impulse_responses>
-      <ll>church/speech/2m/left_fl.wav</ll>
-      <lr>church/speech/2m/left_fr.wav</lr>
-      <rl>church/speech/2m/right_fl.wav</rl>
-      <rr>church/speech/2m/right_fr.wav</rr>
+      <ll>church/speech/2m/left_fl.flac</ll>
+      <lr>church/speech/2m/left_fr.flac</lr>
+      <rl>church/speech/2m/right_fl.flac</rl>
+      <rr>church/speech/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2178,10 +2178,10 @@ Christian Bor&#223;</notes>
     <num>54</num>
     <name>church damp#2 4m front</name>
     <impulse_responses>
-      <ll>church/speech/4m/left_fl.wav</ll>
-      <lr>church/speech/4m/left_fr.wav</lr>
-      <rl>church/speech/4m/right_fl.wav</rl>
-      <rr>church/speech/4m/right_fr.wav</rr>
+      <ll>church/speech/4m/left_fl.flac</ll>
+      <lr>church/speech/4m/left_fr.flac</lr>
+      <rl>church/speech/4m/right_fl.flac</rl>
+      <rr>church/speech/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2219,10 +2219,10 @@ Christian Bor&#223;</notes>
     <num>55</num>
     <name>church damp#2 8m front</name>
     <impulse_responses>
-      <ll>church/speech/8m/left_fl.wav</ll>
-      <lr>church/speech/8m/left_fr.wav</lr>
-      <rl>church/speech/8m/right_fl.wav</rl>
-      <rr>church/speech/8m/right_fr.wav</rr>
+      <ll>church/speech/8m/left_fl.flac</ll>
+      <lr>church/speech/8m/left_fr.flac</lr>
+      <rl>church/speech/8m/right_fl.flac</rl>
+      <rr>church/speech/8m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2260,10 +2260,10 @@ Christian Bor&#223;</notes>
     <num>56</num>
     <name>church damp#1 1m front</name>
     <impulse_responses>
-      <ll>church/music/1m/left_fl.wav</ll>
-      <lr>church/music/1m/left_fr.wav</lr>
-      <rl>church/music/1m/right_fl.wav</rl>
-      <rr>church/music/1m/right_fr.wav</rr>
+      <ll>church/music/1m/left_fl.flac</ll>
+      <lr>church/music/1m/left_fr.flac</lr>
+      <rl>church/music/1m/right_fl.flac</rl>
+      <rr>church/music/1m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2301,10 +2301,10 @@ Christian Bor&#223;</notes>
     <num>57</num>
     <name>church damp#1 2m front</name>
     <impulse_responses>
-      <ll>church/music/2m/left_fl.wav</ll>
-      <lr>church/music/2m/left_fr.wav</lr>
-      <rl>church/music/2m/right_fl.wav</rl>
-      <rr>church/music/2m/right_fr.wav</rr>
+      <ll>church/music/2m/left_fl.flac</ll>
+      <lr>church/music/2m/left_fr.flac</lr>
+      <rl>church/music/2m/right_fl.flac</rl>
+      <rr>church/music/2m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2342,10 +2342,10 @@ Christian Bor&#223;</notes>
     <num>58</num>
     <name>church damp#1 4m front</name>
     <impulse_responses>
-      <ll>church/music/4m/left_fl.wav</ll>
-      <lr>church/music/4m/left_fr.wav</lr>
-      <rl>church/music/4m/right_fl.wav</rl>
-      <rr>church/music/4m/right_fr.wav</rr>
+      <ll>church/music/4m/left_fl.flac</ll>
+      <lr>church/music/4m/left_fr.flac</lr>
+      <rl>church/music/4m/right_fl.flac</rl>
+      <rr>church/music/4m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2383,10 +2383,10 @@ Christian Bor&#223;</notes>
     <num>59</num>
     <name>church damp#1 8m front</name>
     <impulse_responses>
-      <ll>church/music/8m/left_fl.wav</ll>
-      <lr>church/music/8m/left_fr.wav</lr>
-      <rl>church/music/8m/right_fl.wav</rl>
-      <rr>church/music/8m/right_fr.wav</rr>
+      <ll>church/music/8m/left_fl.flac</ll>
+      <lr>church/music/8m/left_fr.flac</lr>
+      <rl>church/music/8m/right_fl.flac</rl>
+      <rr>church/music/8m/right_fr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: front</cat_1>
@@ -2424,10 +2424,10 @@ Christian Bor&#223;</notes>
     <num>60</num>
     <name>room#1 damp#3 1m rear</name>
     <impulse_responses>
-      <ll>bathroom/education/1m/left_sl.wav</ll>
-      <lr>bathroom/education/1m/left_sr.wav</lr>
-      <rl>bathroom/education/1m/right_sl.wav</rl>
-      <rr>bathroom/education/1m/right_sr.wav</rr>
+      <ll>bathroom/education/1m/left_sl.flac</ll>
+      <lr>bathroom/education/1m/left_sr.flac</lr>
+      <rl>bathroom/education/1m/right_sl.flac</rl>
+      <rr>bathroom/education/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2465,10 +2465,10 @@ Christian Bor&#223;</notes>
     <num>61</num>
     <name>room#2 damp#3 1m rear</name>
     <impulse_responses>
-      <ll>livingroom/education/1m/left_sl.wav</ll>
-      <lr>livingroom/education/1m/left_sr.wav</lr>
-      <rl>livingroom/education/1m/right_sl.wav</rl>
-      <rr>livingroom/education/1m/right_sr.wav</rr>
+      <ll>livingroom/education/1m/left_sl.flac</ll>
+      <lr>livingroom/education/1m/left_sr.flac</lr>
+      <rl>livingroom/education/1m/right_sl.flac</rl>
+      <rr>livingroom/education/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2506,10 +2506,10 @@ Christian Bor&#223;</notes>
     <num>62</num>
     <name>room#2 damp#3 2m rear</name>
     <impulse_responses>
-      <ll>livingroom/education/2m/left_sl.wav</ll>
-      <lr>livingroom/education/2m/left_sr.wav</lr>
-      <rl>livingroom/education/2m/right_sl.wav</rl>
-      <rr>livingroom/education/2m/right_sr.wav</rr>
+      <ll>livingroom/education/2m/left_sl.flac</ll>
+      <lr>livingroom/education/2m/left_sr.flac</lr>
+      <rl>livingroom/education/2m/right_sl.flac</rl>
+      <rr>livingroom/education/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2547,10 +2547,10 @@ Christian Bor&#223;</notes>
     <num>63</num>
     <name>studio damp#3 1m rear</name>
     <impulse_responses>
-      <ll>studio/education/1m/left_sl.wav</ll>
-      <lr>studio/education/1m/left_sr.wav</lr>
-      <rl>studio/education/1m/right_sl.wav</rl>
-      <rr>studio/education/1m/right_sr.wav</rr>
+      <ll>studio/education/1m/left_sl.flac</ll>
+      <lr>studio/education/1m/left_sr.flac</lr>
+      <rl>studio/education/1m/right_sl.flac</rl>
+      <rr>studio/education/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2588,10 +2588,10 @@ Christian Bor&#223;</notes>
     <num>64</num>
     <name>studio damp#3 2m rear</name>
     <impulse_responses>
-      <ll>studio/education/2m/left_sl.wav</ll>
-      <lr>studio/education/2m/left_sr.wav</lr>
-      <rl>studio/education/2m/right_sl.wav</rl>
-      <rr>studio/education/2m/right_sr.wav</rr>
+      <ll>studio/education/2m/left_sl.flac</ll>
+      <lr>studio/education/2m/left_sr.flac</lr>
+      <rl>studio/education/2m/right_sl.flac</rl>
+      <rr>studio/education/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2629,10 +2629,10 @@ Christian Bor&#223;</notes>
     <num>65</num>
     <name>hall#1 damp#3 1m rear</name>
     <impulse_responses>
-      <ll>small_concert_hall/education/1m/left_sl.wav</ll>
-      <lr>small_concert_hall/education/1m/left_sr.wav</lr>
-      <rl>small_concert_hall/education/1m/right_sl.wav</rl>
-      <rr>small_concert_hall/education/1m/right_sr.wav</rr>
+      <ll>small_concert_hall/education/1m/left_sl.flac</ll>
+      <lr>small_concert_hall/education/1m/left_sr.flac</lr>
+      <rl>small_concert_hall/education/1m/right_sl.flac</rl>
+      <rr>small_concert_hall/education/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2670,10 +2670,10 @@ Christian Bor&#223;</notes>
     <num>66</num>
     <name>hall#1 damp#3 2m rear</name>
     <impulse_responses>
-      <ll>small_concert_hall/education/2m/left_sl.wav</ll>
-      <lr>small_concert_hall/education/2m/left_sr.wav</lr>
-      <rl>small_concert_hall/education/2m/right_sl.wav</rl>
-      <rr>small_concert_hall/education/2m/right_sr.wav</rr>
+      <ll>small_concert_hall/education/2m/left_sl.flac</ll>
+      <lr>small_concert_hall/education/2m/left_sr.flac</lr>
+      <rl>small_concert_hall/education/2m/right_sl.flac</rl>
+      <rr>small_concert_hall/education/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2711,10 +2711,10 @@ Christian Bor&#223;</notes>
     <num>67</num>
     <name>hall#1 damp#3 4m rear</name>
     <impulse_responses>
-      <ll>small_concert_hall/education/4m/left_sl.wav</ll>
-      <lr>small_concert_hall/education/4m/left_sr.wav</lr>
-      <rl>small_concert_hall/education/4m/right_sl.wav</rl>
-      <rr>small_concert_hall/education/4m/right_sr.wav</rr>
+      <ll>small_concert_hall/education/4m/left_sl.flac</ll>
+      <lr>small_concert_hall/education/4m/left_sr.flac</lr>
+      <rl>small_concert_hall/education/4m/right_sl.flac</rl>
+      <rr>small_concert_hall/education/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2752,10 +2752,10 @@ Christian Bor&#223;</notes>
     <num>68</num>
     <name>hall#2 damp#3 1m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/education/1m/left_sl.wav</ll>
-      <lr>large_concert_hall/education/1m/left_sr.wav</lr>
-      <rl>large_concert_hall/education/1m/right_sl.wav</rl>
-      <rr>large_concert_hall/education/1m/right_sr.wav</rr>
+      <ll>large_concert_hall/education/1m/left_sl.flac</ll>
+      <lr>large_concert_hall/education/1m/left_sr.flac</lr>
+      <rl>large_concert_hall/education/1m/right_sl.flac</rl>
+      <rr>large_concert_hall/education/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2793,10 +2793,10 @@ Christian Bor&#223;</notes>
     <num>69</num>
     <name>hall#2 damp#3 2m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/education/2m/left_sl.wav</ll>
-      <lr>large_concert_hall/education/2m/left_sr.wav</lr>
-      <rl>large_concert_hall/education/2m/right_sl.wav</rl>
-      <rr>large_concert_hall/education/2m/right_sr.wav</rr>
+      <ll>large_concert_hall/education/2m/left_sl.flac</ll>
+      <lr>large_concert_hall/education/2m/left_sr.flac</lr>
+      <rl>large_concert_hall/education/2m/right_sl.flac</rl>
+      <rr>large_concert_hall/education/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2834,10 +2834,10 @@ Christian Bor&#223;</notes>
     <num>70</num>
     <name>hall#2 damp#3 4m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/education/4m/left_sl.wav</ll>
-      <lr>large_concert_hall/education/4m/left_sr.wav</lr>
-      <rl>large_concert_hall/education/4m/right_sl.wav</rl>
-      <rr>large_concert_hall/education/4m/right_sr.wav</rr>
+      <ll>large_concert_hall/education/4m/left_sl.flac</ll>
+      <lr>large_concert_hall/education/4m/left_sr.flac</lr>
+      <rl>large_concert_hall/education/4m/right_sl.flac</rl>
+      <rr>large_concert_hall/education/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2875,10 +2875,10 @@ Christian Bor&#223;</notes>
     <num>71</num>
     <name>hall#2 damp#3 8m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/education/8m/left_sl.wav</ll>
-      <lr>large_concert_hall/education/8m/left_sr.wav</lr>
-      <rl>large_concert_hall/education/8m/right_sl.wav</rl>
-      <rr>large_concert_hall/education/8m/right_sr.wav</rr>
+      <ll>large_concert_hall/education/8m/left_sl.flac</ll>
+      <lr>large_concert_hall/education/8m/left_sr.flac</lr>
+      <rl>large_concert_hall/education/8m/right_sl.flac</rl>
+      <rr>large_concert_hall/education/8m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2916,10 +2916,10 @@ Christian Bor&#223;</notes>
     <num>72</num>
     <name>hall#3 damp#3 1m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/1m/left_sl.wav</ll>
-      <lr>huge_concert_hall/education/1m/left_sr.wav</lr>
-      <rl>huge_concert_hall/education/1m/right_sl.wav</rl>
-      <rr>huge_concert_hall/education/1m/right_sr.wav</rr>
+      <ll>huge_concert_hall/education/1m/left_sl.flac</ll>
+      <lr>huge_concert_hall/education/1m/left_sr.flac</lr>
+      <rl>huge_concert_hall/education/1m/right_sl.flac</rl>
+      <rr>huge_concert_hall/education/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2957,10 +2957,10 @@ Christian Bor&#223;</notes>
     <num>73</num>
     <name>hall#3 damp#3 2m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/2m/left_sl.wav</ll>
-      <lr>huge_concert_hall/education/2m/left_sr.wav</lr>
-      <rl>huge_concert_hall/education/2m/right_sl.wav</rl>
-      <rr>huge_concert_hall/education/2m/right_sr.wav</rr>
+      <ll>huge_concert_hall/education/2m/left_sl.flac</ll>
+      <lr>huge_concert_hall/education/2m/left_sr.flac</lr>
+      <rl>huge_concert_hall/education/2m/right_sl.flac</rl>
+      <rr>huge_concert_hall/education/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -2998,10 +2998,10 @@ Christian Bor&#223;</notes>
     <num>74</num>
     <name>hall#3 damp#3 4m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/4m/left_sl.wav</ll>
-      <lr>huge_concert_hall/education/4m/left_sr.wav</lr>
-      <rl>huge_concert_hall/education/4m/right_sl.wav</rl>
-      <rr>huge_concert_hall/education/4m/right_sr.wav</rr>
+      <ll>huge_concert_hall/education/4m/left_sl.flac</ll>
+      <lr>huge_concert_hall/education/4m/left_sr.flac</lr>
+      <rl>huge_concert_hall/education/4m/right_sl.flac</rl>
+      <rr>huge_concert_hall/education/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3039,10 +3039,10 @@ Christian Bor&#223;</notes>
     <num>75</num>
     <name>hall#3 damp#3 8m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/8m/left_sl.wav</ll>
-      <lr>huge_concert_hall/education/8m/left_sr.wav</lr>
-      <rl>huge_concert_hall/education/8m/right_sl.wav</rl>
-      <rr>huge_concert_hall/education/8m/right_sr.wav</rr>
+      <ll>huge_concert_hall/education/8m/left_sl.flac</ll>
+      <lr>huge_concert_hall/education/8m/left_sr.flac</lr>
+      <rl>huge_concert_hall/education/8m/right_sl.flac</rl>
+      <rr>huge_concert_hall/education/8m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3080,10 +3080,10 @@ Christian Bor&#223;</notes>
     <num>76</num>
     <name>hall#3 damp#3 16m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/education/16m/left_sl.wav</ll>
-      <lr>huge_concert_hall/education/16m/left_sr.wav</lr>
-      <rl>huge_concert_hall/education/16m/right_sl.wav</rl>
-      <rr>huge_concert_hall/education/16m/right_sr.wav</rr>
+      <ll>huge_concert_hall/education/16m/left_sl.flac</ll>
+      <lr>huge_concert_hall/education/16m/left_sr.flac</lr>
+      <rl>huge_concert_hall/education/16m/right_sl.flac</rl>
+      <rr>huge_concert_hall/education/16m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3121,10 +3121,10 @@ Christian Bor&#223;</notes>
     <num>77</num>
     <name>room#1 damp#2 1m rear</name>
     <impulse_responses>
-      <ll>bathroom/speech/1m/left_sl.wav</ll>
-      <lr>bathroom/speech/1m/left_sr.wav</lr>
-      <rl>bathroom/speech/1m/right_sl.wav</rl>
-      <rr>bathroom/speech/1m/right_sr.wav</rr>
+      <ll>bathroom/speech/1m/left_sl.flac</ll>
+      <lr>bathroom/speech/1m/left_sr.flac</lr>
+      <rl>bathroom/speech/1m/right_sl.flac</rl>
+      <rr>bathroom/speech/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3162,10 +3162,10 @@ Christian Bor&#223;</notes>
     <num>78</num>
     <name>room#2 damp#2 1m rear</name>
     <impulse_responses>
-      <ll>livingroom/speech/1m/left_sl.wav</ll>
-      <lr>livingroom/speech/1m/left_sr.wav</lr>
-      <rl>livingroom/speech/1m/right_sl.wav</rl>
-      <rr>livingroom/speech/1m/right_sr.wav</rr>
+      <ll>livingroom/speech/1m/left_sl.flac</ll>
+      <lr>livingroom/speech/1m/left_sr.flac</lr>
+      <rl>livingroom/speech/1m/right_sl.flac</rl>
+      <rr>livingroom/speech/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3203,10 +3203,10 @@ Christian Bor&#223;</notes>
     <num>79</num>
     <name>room#2 damp#2 2m rear</name>
     <impulse_responses>
-      <ll>livingroom/speech/2m/left_sl.wav</ll>
-      <lr>livingroom/speech/2m/left_sr.wav</lr>
-      <rl>livingroom/speech/2m/right_sl.wav</rl>
-      <rr>livingroom/speech/2m/right_sr.wav</rr>
+      <ll>livingroom/speech/2m/left_sl.flac</ll>
+      <lr>livingroom/speech/2m/left_sr.flac</lr>
+      <rl>livingroom/speech/2m/right_sl.flac</rl>
+      <rr>livingroom/speech/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3244,10 +3244,10 @@ Christian Bor&#223;</notes>
     <num>80</num>
     <name>studio damp#2 1m rear</name>
     <impulse_responses>
-      <ll>studio/speech/1m/left_sl.wav</ll>
-      <lr>studio/speech/1m/left_sr.wav</lr>
-      <rl>studio/speech/1m/right_sl.wav</rl>
-      <rr>studio/speech/1m/right_sr.wav</rr>
+      <ll>studio/speech/1m/left_sl.flac</ll>
+      <lr>studio/speech/1m/left_sr.flac</lr>
+      <rl>studio/speech/1m/right_sl.flac</rl>
+      <rr>studio/speech/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3285,10 +3285,10 @@ Christian Bor&#223;</notes>
     <num>81</num>
     <name>studio damp#2 2m rear</name>
     <impulse_responses>
-      <ll>studio/speech/2m/left_sl.wav</ll>
-      <lr>studio/speech/2m/left_sr.wav</lr>
-      <rl>studio/speech/2m/right_sl.wav</rl>
-      <rr>studio/speech/2m/right_sr.wav</rr>
+      <ll>studio/speech/2m/left_sl.flac</ll>
+      <lr>studio/speech/2m/left_sr.flac</lr>
+      <rl>studio/speech/2m/right_sl.flac</rl>
+      <rr>studio/speech/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3326,10 +3326,10 @@ Christian Bor&#223;</notes>
     <num>82</num>
     <name>hall#1 damp#2 1m rear</name>
     <impulse_responses>
-      <ll>small_concert_hall/speech/1m/left_sl.wav</ll>
-      <lr>small_concert_hall/speech/1m/left_sr.wav</lr>
-      <rl>small_concert_hall/speech/1m/right_sl.wav</rl>
-      <rr>small_concert_hall/speech/1m/right_sr.wav</rr>
+      <ll>small_concert_hall/speech/1m/left_sl.flac</ll>
+      <lr>small_concert_hall/speech/1m/left_sr.flac</lr>
+      <rl>small_concert_hall/speech/1m/right_sl.flac</rl>
+      <rr>small_concert_hall/speech/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3367,10 +3367,10 @@ Christian Bor&#223;</notes>
     <num>83</num>
     <name>hall#1 damp#2 2m rear</name>
     <impulse_responses>
-      <ll>small_concert_hall/speech/2m/left_sl.wav</ll>
-      <lr>small_concert_hall/speech/2m/left_sr.wav</lr>
-      <rl>small_concert_hall/speech/2m/right_sl.wav</rl>
-      <rr>small_concert_hall/speech/2m/right_sr.wav</rr>
+      <ll>small_concert_hall/speech/2m/left_sl.flac</ll>
+      <lr>small_concert_hall/speech/2m/left_sr.flac</lr>
+      <rl>small_concert_hall/speech/2m/right_sl.flac</rl>
+      <rr>small_concert_hall/speech/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3408,10 +3408,10 @@ Christian Bor&#223;</notes>
     <num>84</num>
     <name>hall#1 damp#2 4m rear</name>
     <impulse_responses>
-      <ll>small_concert_hall/speech/4m/left_sl.wav</ll>
-      <lr>small_concert_hall/speech/4m/left_sr.wav</lr>
-      <rl>small_concert_hall/speech/4m/right_sl.wav</rl>
-      <rr>small_concert_hall/speech/4m/right_sr.wav</rr>
+      <ll>small_concert_hall/speech/4m/left_sl.flac</ll>
+      <lr>small_concert_hall/speech/4m/left_sr.flac</lr>
+      <rl>small_concert_hall/speech/4m/right_sl.flac</rl>
+      <rr>small_concert_hall/speech/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3449,10 +3449,10 @@ Christian Bor&#223;</notes>
     <num>85</num>
     <name>hall#2 damp#2 1m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/speech/1m/left_sl.wav</ll>
-      <lr>large_concert_hall/speech/1m/left_sr.wav</lr>
-      <rl>large_concert_hall/speech/1m/right_sl.wav</rl>
-      <rr>large_concert_hall/speech/1m/right_sr.wav</rr>
+      <ll>large_concert_hall/speech/1m/left_sl.flac</ll>
+      <lr>large_concert_hall/speech/1m/left_sr.flac</lr>
+      <rl>large_concert_hall/speech/1m/right_sl.flac</rl>
+      <rr>large_concert_hall/speech/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3490,10 +3490,10 @@ Christian Bor&#223;</notes>
     <num>86</num>
     <name>hall#2 damp#2 2m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/speech/2m/left_sl.wav</ll>
-      <lr>large_concert_hall/speech/2m/left_sr.wav</lr>
-      <rl>large_concert_hall/speech/2m/right_sl.wav</rl>
-      <rr>large_concert_hall/speech/2m/right_sr.wav</rr>
+      <ll>large_concert_hall/speech/2m/left_sl.flac</ll>
+      <lr>large_concert_hall/speech/2m/left_sr.flac</lr>
+      <rl>large_concert_hall/speech/2m/right_sl.flac</rl>
+      <rr>large_concert_hall/speech/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3531,10 +3531,10 @@ Christian Bor&#223;</notes>
     <num>87</num>
     <name>hall#2 damp#2 4m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/speech/4m/left_sl.wav</ll>
-      <lr>large_concert_hall/speech/4m/left_sr.wav</lr>
-      <rl>large_concert_hall/speech/4m/right_sl.wav</rl>
-      <rr>large_concert_hall/speech/4m/right_sr.wav</rr>
+      <ll>large_concert_hall/speech/4m/left_sl.flac</ll>
+      <lr>large_concert_hall/speech/4m/left_sr.flac</lr>
+      <rl>large_concert_hall/speech/4m/right_sl.flac</rl>
+      <rr>large_concert_hall/speech/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3572,10 +3572,10 @@ Christian Bor&#223;</notes>
     <num>88</num>
     <name>hall#2 damp#2 8m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/speech/8m/left_sl.wav</ll>
-      <lr>large_concert_hall/speech/8m/left_sr.wav</lr>
-      <rl>large_concert_hall/speech/8m/right_sl.wav</rl>
-      <rr>large_concert_hall/speech/8m/right_sr.wav</rr>
+      <ll>large_concert_hall/speech/8m/left_sl.flac</ll>
+      <lr>large_concert_hall/speech/8m/left_sr.flac</lr>
+      <rl>large_concert_hall/speech/8m/right_sl.flac</rl>
+      <rr>large_concert_hall/speech/8m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3613,10 +3613,10 @@ Christian Bor&#223;</notes>
     <num>89</num>
     <name>hall#3 damp#2 1m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/1m/left_sl.wav</ll>
-      <lr>huge_concert_hall/speech/1m/left_sr.wav</lr>
-      <rl>huge_concert_hall/speech/1m/right_sl.wav</rl>
-      <rr>huge_concert_hall/speech/1m/right_sr.wav</rr>
+      <ll>huge_concert_hall/speech/1m/left_sl.flac</ll>
+      <lr>huge_concert_hall/speech/1m/left_sr.flac</lr>
+      <rl>huge_concert_hall/speech/1m/right_sl.flac</rl>
+      <rr>huge_concert_hall/speech/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3654,10 +3654,10 @@ Christian Bor&#223;</notes>
     <num>90</num>
     <name>hall#3 damp#2 2m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/2m/left_sl.wav</ll>
-      <lr>huge_concert_hall/speech/2m/left_sr.wav</lr>
-      <rl>huge_concert_hall/speech/2m/right_sl.wav</rl>
-      <rr>huge_concert_hall/speech/2m/right_sr.wav</rr>
+      <ll>huge_concert_hall/speech/2m/left_sl.flac</ll>
+      <lr>huge_concert_hall/speech/2m/left_sr.flac</lr>
+      <rl>huge_concert_hall/speech/2m/right_sl.flac</rl>
+      <rr>huge_concert_hall/speech/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3695,10 +3695,10 @@ Christian Bor&#223;</notes>
     <num>91</num>
     <name>hall#3 damp#2 4m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/4m/left_sl.wav</ll>
-      <lr>huge_concert_hall/speech/4m/left_sr.wav</lr>
-      <rl>huge_concert_hall/speech/4m/right_sl.wav</rl>
-      <rr>huge_concert_hall/speech/4m/right_sr.wav</rr>
+      <ll>huge_concert_hall/speech/4m/left_sl.flac</ll>
+      <lr>huge_concert_hall/speech/4m/left_sr.flac</lr>
+      <rl>huge_concert_hall/speech/4m/right_sl.flac</rl>
+      <rr>huge_concert_hall/speech/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3736,10 +3736,10 @@ Christian Bor&#223;</notes>
     <num>92</num>
     <name>hall#3 damp#2 8m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/8m/left_sl.wav</ll>
-      <lr>huge_concert_hall/speech/8m/left_sr.wav</lr>
-      <rl>huge_concert_hall/speech/8m/right_sl.wav</rl>
-      <rr>huge_concert_hall/speech/8m/right_sr.wav</rr>
+      <ll>huge_concert_hall/speech/8m/left_sl.flac</ll>
+      <lr>huge_concert_hall/speech/8m/left_sr.flac</lr>
+      <rl>huge_concert_hall/speech/8m/right_sl.flac</rl>
+      <rr>huge_concert_hall/speech/8m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3777,10 +3777,10 @@ Christian Bor&#223;</notes>
     <num>93</num>
     <name>hall#3 damp#2 16m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/speech/16m/left_sl.wav</ll>
-      <lr>huge_concert_hall/speech/16m/left_sr.wav</lr>
-      <rl>huge_concert_hall/speech/16m/right_sl.wav</rl>
-      <rr>huge_concert_hall/speech/16m/right_sr.wav</rr>
+      <ll>huge_concert_hall/speech/16m/left_sl.flac</ll>
+      <lr>huge_concert_hall/speech/16m/left_sr.flac</lr>
+      <rl>huge_concert_hall/speech/16m/right_sl.flac</rl>
+      <rr>huge_concert_hall/speech/16m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3818,10 +3818,10 @@ Christian Bor&#223;</notes>
     <num>94</num>
     <name>room#1 damp#1 1m rear</name>
     <impulse_responses>
-      <ll>bathroom/music/1m/left_sl.wav</ll>
-      <lr>bathroom/music/1m/left_sr.wav</lr>
-      <rl>bathroom/music/1m/right_sl.wav</rl>
-      <rr>bathroom/music/1m/right_sr.wav</rr>
+      <ll>bathroom/music/1m/left_sl.flac</ll>
+      <lr>bathroom/music/1m/left_sr.flac</lr>
+      <rl>bathroom/music/1m/right_sl.flac</rl>
+      <rr>bathroom/music/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3859,10 +3859,10 @@ Christian Bor&#223;</notes>
     <num>95</num>
     <name>room#2 damp#1 1m rear</name>
     <impulse_responses>
-      <ll>livingroom/music/1m/left_sl.wav</ll>
-      <lr>livingroom/music/1m/left_sr.wav</lr>
-      <rl>livingroom/music/1m/right_sl.wav</rl>
-      <rr>livingroom/music/1m/right_sr.wav</rr>
+      <ll>livingroom/music/1m/left_sl.flac</ll>
+      <lr>livingroom/music/1m/left_sr.flac</lr>
+      <rl>livingroom/music/1m/right_sl.flac</rl>
+      <rr>livingroom/music/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3900,10 +3900,10 @@ Christian Bor&#223;</notes>
     <num>96</num>
     <name>room#2 damp#1 2m rear</name>
     <impulse_responses>
-      <ll>livingroom/music/2m/left_sl.wav</ll>
-      <lr>livingroom/music/2m/left_sr.wav</lr>
-      <rl>livingroom/music/2m/right_sl.wav</rl>
-      <rr>livingroom/music/2m/right_sr.wav</rr>
+      <ll>livingroom/music/2m/left_sl.flac</ll>
+      <lr>livingroom/music/2m/left_sr.flac</lr>
+      <rl>livingroom/music/2m/right_sl.flac</rl>
+      <rr>livingroom/music/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3941,10 +3941,10 @@ Christian Bor&#223;</notes>
     <num>97</num>
     <name>studio damp#1 1m rear</name>
     <impulse_responses>
-      <ll>studio/music/1m/left_sl.wav</ll>
-      <lr>studio/music/1m/left_sr.wav</lr>
-      <rl>studio/music/1m/right_sl.wav</rl>
-      <rr>studio/music/1m/right_sr.wav</rr>
+      <ll>studio/music/1m/left_sl.flac</ll>
+      <lr>studio/music/1m/left_sr.flac</lr>
+      <rl>studio/music/1m/right_sl.flac</rl>
+      <rr>studio/music/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -3982,10 +3982,10 @@ Christian Bor&#223;</notes>
     <num>98</num>
     <name>studio damp#1 2m rear</name>
     <impulse_responses>
-      <ll>studio/music/2m/left_sl.wav</ll>
-      <lr>studio/music/2m/left_sr.wav</lr>
-      <rl>studio/music/2m/right_sl.wav</rl>
-      <rr>studio/music/2m/right_sr.wav</rr>
+      <ll>studio/music/2m/left_sl.flac</ll>
+      <lr>studio/music/2m/left_sr.flac</lr>
+      <rl>studio/music/2m/right_sl.flac</rl>
+      <rr>studio/music/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4023,10 +4023,10 @@ Christian Bor&#223;</notes>
     <num>99</num>
     <name>hall#1 damp#1 1m rear</name>
     <impulse_responses>
-      <ll>small_concert_hall/music/1m/left_sl.wav</ll>
-      <lr>small_concert_hall/music/1m/left_sr.wav</lr>
-      <rl>small_concert_hall/music/1m/right_sl.wav</rl>
-      <rr>small_concert_hall/music/1m/right_sr.wav</rr>
+      <ll>small_concert_hall/music/1m/left_sl.flac</ll>
+      <lr>small_concert_hall/music/1m/left_sr.flac</lr>
+      <rl>small_concert_hall/music/1m/right_sl.flac</rl>
+      <rr>small_concert_hall/music/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4064,10 +4064,10 @@ Christian Bor&#223;</notes>
     <num>100</num>
     <name>hall#1 damp#1 2m rear</name>
     <impulse_responses>
-      <ll>small_concert_hall/music/2m/left_sl.wav</ll>
-      <lr>small_concert_hall/music/2m/left_sr.wav</lr>
-      <rl>small_concert_hall/music/2m/right_sl.wav</rl>
-      <rr>small_concert_hall/music/2m/right_sr.wav</rr>
+      <ll>small_concert_hall/music/2m/left_sl.flac</ll>
+      <lr>small_concert_hall/music/2m/left_sr.flac</lr>
+      <rl>small_concert_hall/music/2m/right_sl.flac</rl>
+      <rr>small_concert_hall/music/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4105,10 +4105,10 @@ Christian Bor&#223;</notes>
     <num>101</num>
     <name>hall#1 damp#1 4m rear</name>
     <impulse_responses>
-      <ll>small_concert_hall/music/4m/left_sl.wav</ll>
-      <lr>small_concert_hall/music/4m/left_sr.wav</lr>
-      <rl>small_concert_hall/music/4m/right_sl.wav</rl>
-      <rr>small_concert_hall/music/4m/right_sr.wav</rr>
+      <ll>small_concert_hall/music/4m/left_sl.flac</ll>
+      <lr>small_concert_hall/music/4m/left_sr.flac</lr>
+      <rl>small_concert_hall/music/4m/right_sl.flac</rl>
+      <rr>small_concert_hall/music/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4146,10 +4146,10 @@ Christian Bor&#223;</notes>
     <num>102</num>
     <name>hall#2 damp#1 1m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/music/1m/left_sl.wav</ll>
-      <lr>large_concert_hall/music/1m/left_sr.wav</lr>
-      <rl>large_concert_hall/music/1m/right_sl.wav</rl>
-      <rr>large_concert_hall/music/1m/right_sr.wav</rr>
+      <ll>large_concert_hall/music/1m/left_sl.flac</ll>
+      <lr>large_concert_hall/music/1m/left_sr.flac</lr>
+      <rl>large_concert_hall/music/1m/right_sl.flac</rl>
+      <rr>large_concert_hall/music/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4187,10 +4187,10 @@ Christian Bor&#223;</notes>
     <num>103</num>
     <name>hall#2 damp#1 2m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/music/2m/left_sl.wav</ll>
-      <lr>large_concert_hall/music/2m/left_sr.wav</lr>
-      <rl>large_concert_hall/music/2m/right_sl.wav</rl>
-      <rr>large_concert_hall/music/2m/right_sr.wav</rr>
+      <ll>large_concert_hall/music/2m/left_sl.flac</ll>
+      <lr>large_concert_hall/music/2m/left_sr.flac</lr>
+      <rl>large_concert_hall/music/2m/right_sl.flac</rl>
+      <rr>large_concert_hall/music/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4228,10 +4228,10 @@ Christian Bor&#223;</notes>
     <num>104</num>
     <name>hall#2 damp#1 4m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/music/4m/left_sl.wav</ll>
-      <lr>large_concert_hall/music/4m/left_sr.wav</lr>
-      <rl>large_concert_hall/music/4m/right_sl.wav</rl>
-      <rr>large_concert_hall/music/4m/right_sr.wav</rr>
+      <ll>large_concert_hall/music/4m/left_sl.flac</ll>
+      <lr>large_concert_hall/music/4m/left_sr.flac</lr>
+      <rl>large_concert_hall/music/4m/right_sl.flac</rl>
+      <rr>large_concert_hall/music/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4269,10 +4269,10 @@ Christian Bor&#223;</notes>
     <num>105</num>
     <name>hall#2 damp#1 8m rear</name>
     <impulse_responses>
-      <ll>large_concert_hall/music/8m/left_sl.wav</ll>
-      <lr>large_concert_hall/music/8m/left_sr.wav</lr>
-      <rl>large_concert_hall/music/8m/right_sl.wav</rl>
-      <rr>large_concert_hall/music/8m/right_sr.wav</rr>
+      <ll>large_concert_hall/music/8m/left_sl.flac</ll>
+      <lr>large_concert_hall/music/8m/left_sr.flac</lr>
+      <rl>large_concert_hall/music/8m/right_sl.flac</rl>
+      <rr>large_concert_hall/music/8m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4310,10 +4310,10 @@ Christian Bor&#223;</notes>
     <num>106</num>
     <name>hall#3 damp#1 1m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/1m/left_sl.wav</ll>
-      <lr>huge_concert_hall/music/1m/left_sr.wav</lr>
-      <rl>huge_concert_hall/music/1m/right_sl.wav</rl>
-      <rr>huge_concert_hall/music/1m/right_sr.wav</rr>
+      <ll>huge_concert_hall/music/1m/left_sl.flac</ll>
+      <lr>huge_concert_hall/music/1m/left_sr.flac</lr>
+      <rl>huge_concert_hall/music/1m/right_sl.flac</rl>
+      <rr>huge_concert_hall/music/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4351,10 +4351,10 @@ Christian Bor&#223;</notes>
     <num>107</num>
     <name>hall#3 damp#1 2m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/2m/left_sl.wav</ll>
-      <lr>huge_concert_hall/music/2m/left_sr.wav</lr>
-      <rl>huge_concert_hall/music/2m/right_sl.wav</rl>
-      <rr>huge_concert_hall/music/2m/right_sr.wav</rr>
+      <ll>huge_concert_hall/music/2m/left_sl.flac</ll>
+      <lr>huge_concert_hall/music/2m/left_sr.flac</lr>
+      <rl>huge_concert_hall/music/2m/right_sl.flac</rl>
+      <rr>huge_concert_hall/music/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4392,10 +4392,10 @@ Christian Bor&#223;</notes>
     <num>108</num>
     <name>hall#3 damp#1 4m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/4m/left_sl.wav</ll>
-      <lr>huge_concert_hall/music/4m/left_sr.wav</lr>
-      <rl>huge_concert_hall/music/4m/right_sl.wav</rl>
-      <rr>huge_concert_hall/music/4m/right_sr.wav</rr>
+      <ll>huge_concert_hall/music/4m/left_sl.flac</ll>
+      <lr>huge_concert_hall/music/4m/left_sr.flac</lr>
+      <rl>huge_concert_hall/music/4m/right_sl.flac</rl>
+      <rr>huge_concert_hall/music/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4433,10 +4433,10 @@ Christian Bor&#223;</notes>
     <num>109</num>
     <name>hall#3 damp#1 8m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/8m/left_sl.wav</ll>
-      <lr>huge_concert_hall/music/8m/left_sr.wav</lr>
-      <rl>huge_concert_hall/music/8m/right_sl.wav</rl>
-      <rr>huge_concert_hall/music/8m/right_sr.wav</rr>
+      <ll>huge_concert_hall/music/8m/left_sl.flac</ll>
+      <lr>huge_concert_hall/music/8m/left_sr.flac</lr>
+      <rl>huge_concert_hall/music/8m/right_sl.flac</rl>
+      <rr>huge_concert_hall/music/8m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4474,10 +4474,10 @@ Christian Bor&#223;</notes>
     <num>110</num>
     <name>hall#3 damp#1 16m rear</name>
     <impulse_responses>
-      <ll>huge_concert_hall/music/16m/left_sl.wav</ll>
-      <lr>huge_concert_hall/music/16m/left_sr.wav</lr>
-      <rl>huge_concert_hall/music/16m/right_sl.wav</rl>
-      <rr>huge_concert_hall/music/16m/right_sr.wav</rr>
+      <ll>huge_concert_hall/music/16m/left_sl.flac</ll>
+      <lr>huge_concert_hall/music/16m/left_sr.flac</lr>
+      <rl>huge_concert_hall/music/16m/right_sl.flac</rl>
+      <rr>huge_concert_hall/music/16m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4515,10 +4515,10 @@ Christian Bor&#223;</notes>
     <num>111</num>
     <name>church damp#2 1m rear</name>
     <impulse_responses>
-      <ll>church/speech/1m/left_sl.wav</ll>
-      <lr>church/speech/1m/left_sr.wav</lr>
-      <rl>church/speech/1m/right_sl.wav</rl>
-      <rr>church/speech/1m/right_sr.wav</rr>
+      <ll>church/speech/1m/left_sl.flac</ll>
+      <lr>church/speech/1m/left_sr.flac</lr>
+      <rl>church/speech/1m/right_sl.flac</rl>
+      <rr>church/speech/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4556,10 +4556,10 @@ Christian Bor&#223;</notes>
     <num>112</num>
     <name>church damp#2 2m rear</name>
     <impulse_responses>
-      <ll>church/speech/2m/left_sl.wav</ll>
-      <lr>church/speech/2m/left_sr.wav</lr>
-      <rl>church/speech/2m/right_sl.wav</rl>
-      <rr>church/speech/2m/right_sr.wav</rr>
+      <ll>church/speech/2m/left_sl.flac</ll>
+      <lr>church/speech/2m/left_sr.flac</lr>
+      <rl>church/speech/2m/right_sl.flac</rl>
+      <rr>church/speech/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4597,10 +4597,10 @@ Christian Bor&#223;</notes>
     <num>113</num>
     <name>church damp#2 4m rear</name>
     <impulse_responses>
-      <ll>church/speech/4m/left_sl.wav</ll>
-      <lr>church/speech/4m/left_sr.wav</lr>
-      <rl>church/speech/4m/right_sl.wav</rl>
-      <rr>church/speech/4m/right_sr.wav</rr>
+      <ll>church/speech/4m/left_sl.flac</ll>
+      <lr>church/speech/4m/left_sr.flac</lr>
+      <rl>church/speech/4m/right_sl.flac</rl>
+      <rr>church/speech/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4638,10 +4638,10 @@ Christian Bor&#223;</notes>
     <num>114</num>
     <name>church damp#2 8m rear</name>
     <impulse_responses>
-      <ll>church/speech/8m/left_sl.wav</ll>
-      <lr>church/speech/8m/left_sr.wav</lr>
-      <rl>church/speech/8m/right_sl.wav</rl>
-      <rr>church/speech/8m/right_sr.wav</rr>
+      <ll>church/speech/8m/left_sl.flac</ll>
+      <lr>church/speech/8m/left_sr.flac</lr>
+      <rl>church/speech/8m/right_sl.flac</rl>
+      <rr>church/speech/8m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4679,10 +4679,10 @@ Christian Bor&#223;</notes>
     <num>115</num>
     <name>church damp#1 1m rear</name>
     <impulse_responses>
-      <ll>church/music/1m/left_sl.wav</ll>
-      <lr>church/music/1m/left_sr.wav</lr>
-      <rl>church/music/1m/right_sl.wav</rl>
-      <rr>church/music/1m/right_sr.wav</rr>
+      <ll>church/music/1m/left_sl.flac</ll>
+      <lr>church/music/1m/left_sr.flac</lr>
+      <rl>church/music/1m/right_sl.flac</rl>
+      <rr>church/music/1m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4720,10 +4720,10 @@ Christian Bor&#223;</notes>
     <num>116</num>
     <name>church damp#1 2m rear</name>
     <impulse_responses>
-      <ll>church/music/2m/left_sl.wav</ll>
-      <lr>church/music/2m/left_sr.wav</lr>
-      <rl>church/music/2m/right_sl.wav</rl>
-      <rr>church/music/2m/right_sr.wav</rr>
+      <ll>church/music/2m/left_sl.flac</ll>
+      <lr>church/music/2m/left_sr.flac</lr>
+      <rl>church/music/2m/right_sl.flac</rl>
+      <rr>church/music/2m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4761,10 +4761,10 @@ Christian Bor&#223;</notes>
     <num>117</num>
     <name>church damp#1 4m rear</name>
     <impulse_responses>
-      <ll>church/music/4m/left_sl.wav</ll>
-      <lr>church/music/4m/left_sr.wav</lr>
-      <rl>church/music/4m/right_sl.wav</rl>
-      <rr>church/music/4m/right_sr.wav</rr>
+      <ll>church/music/4m/left_sl.flac</ll>
+      <lr>church/music/4m/left_sr.flac</lr>
+      <rl>church/music/4m/right_sl.flac</rl>
+      <rr>church/music/4m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>
@@ -4802,10 +4802,10 @@ Christian Bor&#223;</notes>
     <num>118</num>
     <name>church damp#1 8m rear</name>
     <impulse_responses>
-      <ll>church/music/8m/left_sl.wav</ll>
-      <lr>church/music/8m/left_sr.wav</lr>
-      <rl>church/music/8m/right_sl.wav</rl>
-      <rr>church/music/8m/right_sr.wav</rr>
+      <ll>church/music/8m/left_sl.flac</ll>
+      <lr>church/music/8m/left_sr.flac</lr>
+      <rl>church/music/8m/right_sl.flac</rl>
+      <rr>church/music/8m/right_sr.flac</rr>
     </impulse_responses>
     <category>
       <cat_1>playback: rear</cat_1>

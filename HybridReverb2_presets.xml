@@ -1,0 +1,4842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <default>40</default>
+  <preset>
+    <num>1</num>
+    <name>room#1 damp#3 1m front</name>
+    <impulse_responses>
+      <ll>bathroom/education/1m/left_fl.wav</ll>
+      <lr>bathroom/education/1m/left_fr.wav</lr>
+      <rl>bathroom/education/1m/right_fl.wav</rl>
+      <rr>bathroom/education/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: bathroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	4.65m x 3.43m x 2.45m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>2</num>
+    <name>room#2 damp#3 1m front</name>
+    <impulse_responses>
+      <ll>livingroom/education/1m/left_fl.wav</ll>
+      <lr>livingroom/education/1m/left_fr.wav</lr>
+      <rl>livingroom/education/1m/right_fl.wav</rl>
+      <rr>livingroom/education/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	6.65m x 4.90m x 3.50m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>3</num>
+    <name>room#2 damp#3 2m front</name>
+    <impulse_responses>
+      <ll>livingroom/education/2m/left_fl.wav</ll>
+      <lr>livingroom/education/2m/left_fr.wav</lr>
+      <rl>livingroom/education/2m/right_fl.wav</rl>
+      <rr>livingroom/education/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	6.65m x 4.90m x 3.50m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>4</num>
+    <name>studio damp#3 1m front</name>
+    <impulse_responses>
+      <ll>studio/education/1m/left_fl.wav</ll>
+      <lr>studio/education/1m/left_fr.wav</lr>
+      <rl>studio/education/1m/right_fl.wav</rl>
+      <rr>studio/education/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	9.31m x 6.86m x 4.90m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>5</num>
+    <name>studio damp#3 2m front</name>
+    <impulse_responses>
+      <ll>studio/education/2m/left_fl.wav</ll>
+      <lr>studio/education/2m/left_fr.wav</lr>
+      <rl>studio/education/2m/right_fl.wav</rl>
+      <rr>studio/education/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	9.31m x 6.86m x 4.90m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>6</num>
+    <name>hall#1 damp#3 1m front</name>
+    <impulse_responses>
+      <ll>small_concert_hall/education/1m/left_fl.wav</ll>
+      <lr>small_concert_hall/education/1m/left_fr.wav</lr>
+      <rl>small_concert_hall/education/1m/right_fl.wav</rl>
+      <rr>small_concert_hall/education/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	13.30m x 9.80m x 7.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>7</num>
+    <name>hall#1 damp#3 2m front</name>
+    <impulse_responses>
+      <ll>small_concert_hall/education/2m/left_fl.wav</ll>
+      <lr>small_concert_hall/education/2m/left_fr.wav</lr>
+      <rl>small_concert_hall/education/2m/right_fl.wav</rl>
+      <rr>small_concert_hall/education/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	13.30m x 9.80m x 7.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>8</num>
+    <name>hall#1 damp#3 4m front</name>
+    <impulse_responses>
+      <ll>small_concert_hall/education/4m/left_fl.wav</ll>
+      <lr>small_concert_hall/education/4m/left_fr.wav</lr>
+      <rl>small_concert_hall/education/4m/right_fl.wav</rl>
+      <rr>small_concert_hall/education/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	13.30m x 9.80m x 7.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>9</num>
+    <name>hall#2 damp#3 1m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/education/1m/left_fl.wav</ll>
+      <lr>large_concert_hall/education/1m/left_fr.wav</lr>
+      <rl>large_concert_hall/education/1m/right_fl.wav</rl>
+      <rr>large_concert_hall/education/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	26.60m x 19.60m x 14.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>10</num>
+    <name>hall#2 damp#3 2m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/education/2m/left_fl.wav</ll>
+      <lr>large_concert_hall/education/2m/left_fr.wav</lr>
+      <rl>large_concert_hall/education/2m/right_fl.wav</rl>
+      <rr>large_concert_hall/education/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	26.60m x 19.60m x 14.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>11</num>
+    <name>hall#2 damp#3 4m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/education/4m/left_fl.wav</ll>
+      <lr>large_concert_hall/education/4m/left_fr.wav</lr>
+      <rl>large_concert_hall/education/4m/right_fl.wav</rl>
+      <rr>large_concert_hall/education/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	26.60m x 19.60m x 14.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>12</num>
+    <name>hall#2 damp#3 8m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/education/8m/left_fl.wav</ll>
+      <lr>large_concert_hall/education/8m/left_fr.wav</lr>
+      <rl>large_concert_hall/education/8m/right_fl.wav</rl>
+      <rr>large_concert_hall/education/8m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-18.062</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	26.60m x 19.60m x 14.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>13</num>
+    <name>hall#3 damp#3 1m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/1m/left_fl.wav</ll>
+      <lr>huge_concert_hall/education/1m/left_fr.wav</lr>
+      <rl>huge_concert_hall/education/1m/right_fl.wav</rl>
+      <rr>huge_concert_hall/education/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>14</num>
+    <name>hall#3 damp#3 2m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/2m/left_fl.wav</ll>
+      <lr>huge_concert_hall/education/2m/left_fr.wav</lr>
+      <rl>huge_concert_hall/education/2m/right_fl.wav</rl>
+      <rr>huge_concert_hall/education/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>15</num>
+    <name>hall#3 damp#3 4m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/4m/left_fl.wav</ll>
+      <lr>huge_concert_hall/education/4m/left_fr.wav</lr>
+      <rl>huge_concert_hall/education/4m/right_fl.wav</rl>
+      <rr>huge_concert_hall/education/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>16</num>
+    <name>hall#3 damp#3 8m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/8m/left_fl.wav</ll>
+      <lr>huge_concert_hall/education/8m/left_fr.wav</lr>
+      <rl>huge_concert_hall/education/8m/right_fl.wav</rl>
+      <rr>huge_concert_hall/education/8m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-18.062</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>17</num>
+    <name>hall#3 damp#3 16m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/16m/left_fl.wav</ll>
+      <lr>huge_concert_hall/education/16m/left_fr.wav</lr>
+      <rl>huge_concert_hall/education/16m/right_fl.wav</rl>
+      <rr>huge_concert_hall/education/16m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 16m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-24.082</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	16m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>18</num>
+    <name>room#1 damp#2 1m front</name>
+    <impulse_responses>
+      <ll>bathroom/speech/1m/left_fl.wav</ll>
+      <lr>bathroom/speech/1m/left_fr.wav</lr>
+      <rl>bathroom/speech/1m/right_fl.wav</rl>
+      <rr>bathroom/speech/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: bathroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	4.65m x 3.43m x 2.45m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>19</num>
+    <name>room#2 damp#2 1m front</name>
+    <impulse_responses>
+      <ll>livingroom/speech/1m/left_fl.wav</ll>
+      <lr>livingroom/speech/1m/left_fr.wav</lr>
+      <rl>livingroom/speech/1m/right_fl.wav</rl>
+      <rr>livingroom/speech/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	6.65m x 4.90m x 3.50m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>20</num>
+    <name>room#2 damp#2 2m front</name>
+    <impulse_responses>
+      <ll>livingroom/speech/2m/left_fl.wav</ll>
+      <lr>livingroom/speech/2m/left_fr.wav</lr>
+      <rl>livingroom/speech/2m/right_fl.wav</rl>
+      <rr>livingroom/speech/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	6.65m x 4.90m x 3.50m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>21</num>
+    <name>studio damp#2 1m front</name>
+    <impulse_responses>
+      <ll>studio/speech/1m/left_fl.wav</ll>
+      <lr>studio/speech/1m/left_fr.wav</lr>
+      <rl>studio/speech/1m/right_fl.wav</rl>
+      <rr>studio/speech/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	9.31m x 6.86m x 4.90m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>22</num>
+    <name>studio damp#2 2m front</name>
+    <impulse_responses>
+      <ll>studio/speech/2m/left_fl.wav</ll>
+      <lr>studio/speech/2m/left_fr.wav</lr>
+      <rl>studio/speech/2m/right_fl.wav</rl>
+      <rr>studio/speech/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	9.31m x 6.86m x 4.90m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>23</num>
+    <name>hall#1 damp#2 1m front</name>
+    <impulse_responses>
+      <ll>small_concert_hall/speech/1m/left_fl.wav</ll>
+      <lr>small_concert_hall/speech/1m/left_fr.wav</lr>
+      <rl>small_concert_hall/speech/1m/right_fl.wav</rl>
+      <rr>small_concert_hall/speech/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	13.30m x 9.80m x 7.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>24</num>
+    <name>hall#1 damp#2 2m front</name>
+    <impulse_responses>
+      <ll>small_concert_hall/speech/2m/left_fl.wav</ll>
+      <lr>small_concert_hall/speech/2m/left_fr.wav</lr>
+      <rl>small_concert_hall/speech/2m/right_fl.wav</rl>
+      <rr>small_concert_hall/speech/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	13.30m x 9.80m x 7.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>25</num>
+    <name>hall#1 damp#2 4m front</name>
+    <impulse_responses>
+      <ll>small_concert_hall/speech/4m/left_fl.wav</ll>
+      <lr>small_concert_hall/speech/4m/left_fr.wav</lr>
+      <rl>small_concert_hall/speech/4m/right_fl.wav</rl>
+      <rr>small_concert_hall/speech/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	13.30m x 9.80m x 7.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>26</num>
+    <name>hall#2 damp#2 1m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/speech/1m/left_fl.wav</ll>
+      <lr>large_concert_hall/speech/1m/left_fr.wav</lr>
+      <rl>large_concert_hall/speech/1m/right_fl.wav</rl>
+      <rr>large_concert_hall/speech/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	26.60m x 19.60m x 14.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>27</num>
+    <name>hall#2 damp#2 2m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/speech/2m/left_fl.wav</ll>
+      <lr>large_concert_hall/speech/2m/left_fr.wav</lr>
+      <rl>large_concert_hall/speech/2m/right_fl.wav</rl>
+      <rr>large_concert_hall/speech/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	26.60m x 19.60m x 14.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>28</num>
+    <name>hall#2 damp#2 4m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/speech/4m/left_fl.wav</ll>
+      <lr>large_concert_hall/speech/4m/left_fr.wav</lr>
+      <rl>large_concert_hall/speech/4m/right_fl.wav</rl>
+      <rr>large_concert_hall/speech/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	26.60m x 19.60m x 14.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>29</num>
+    <name>hall#2 damp#2 8m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/speech/8m/left_fl.wav</ll>
+      <lr>large_concert_hall/speech/8m/left_fr.wav</lr>
+      <rl>large_concert_hall/speech/8m/right_fl.wav</rl>
+      <rr>large_concert_hall/speech/8m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-18.062</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	26.60m x 19.60m x 14.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>30</num>
+    <name>hall#3 damp#2 1m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/1m/left_fl.wav</ll>
+      <lr>huge_concert_hall/speech/1m/left_fr.wav</lr>
+      <rl>huge_concert_hall/speech/1m/right_fl.wav</rl>
+      <rr>huge_concert_hall/speech/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>31</num>
+    <name>hall#3 damp#2 2m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/2m/left_fl.wav</ll>
+      <lr>huge_concert_hall/speech/2m/left_fr.wav</lr>
+      <rl>huge_concert_hall/speech/2m/right_fl.wav</rl>
+      <rr>huge_concert_hall/speech/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>32</num>
+    <name>hall#3 damp#2 4m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/4m/left_fl.wav</ll>
+      <lr>huge_concert_hall/speech/4m/left_fr.wav</lr>
+      <rl>huge_concert_hall/speech/4m/right_fl.wav</rl>
+      <rr>huge_concert_hall/speech/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>33</num>
+    <name>hall#3 damp#2 8m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/8m/left_fl.wav</ll>
+      <lr>huge_concert_hall/speech/8m/left_fr.wav</lr>
+      <rl>huge_concert_hall/speech/8m/right_fl.wav</rl>
+      <rr>huge_concert_hall/speech/8m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-18.062</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>34</num>
+    <name>hall#3 damp#2 16m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/16m/left_fl.wav</ll>
+      <lr>huge_concert_hall/speech/16m/left_fr.wav</lr>
+      <rl>huge_concert_hall/speech/16m/right_fl.wav</rl>
+      <rr>huge_concert_hall/speech/16m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 16m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-24.082</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	16m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>35</num>
+    <name>room#1 damp#1 1m front</name>
+    <impulse_responses>
+      <ll>bathroom/music/1m/left_fl.wav</ll>
+      <lr>bathroom/music/1m/left_fr.wav</lr>
+      <rl>bathroom/music/1m/right_fl.wav</rl>
+      <rr>bathroom/music/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: bathroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	4.65m x 3.43m x 2.45m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>36</num>
+    <name>room#2 damp#1 1m front</name>
+    <impulse_responses>
+      <ll>livingroom/music/1m/left_fl.wav</ll>
+      <lr>livingroom/music/1m/left_fr.wav</lr>
+      <rl>livingroom/music/1m/right_fl.wav</rl>
+      <rr>livingroom/music/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	6.65m x 4.90m x 3.50m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>37</num>
+    <name>room#2 damp#1 2m front</name>
+    <impulse_responses>
+      <ll>livingroom/music/2m/left_fl.wav</ll>
+      <lr>livingroom/music/2m/left_fr.wav</lr>
+      <rl>livingroom/music/2m/right_fl.wav</rl>
+      <rr>livingroom/music/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	6.65m x 4.90m x 3.50m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>38</num>
+    <name>studio damp#1 1m front</name>
+    <impulse_responses>
+      <ll>studio/music/1m/left_fl.wav</ll>
+      <lr>studio/music/1m/left_fr.wav</lr>
+      <rl>studio/music/1m/right_fl.wav</rl>
+      <rr>studio/music/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	9.31m x 6.86m x 4.90m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>39</num>
+    <name>studio damp#1 2m front</name>
+    <impulse_responses>
+      <ll>studio/music/2m/left_fl.wav</ll>
+      <lr>studio/music/2m/left_fr.wav</lr>
+      <rl>studio/music/2m/right_fl.wav</rl>
+      <rr>studio/music/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	9.31m x 6.86m x 4.90m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>40</num>
+    <name>hall#1 damp#1 1m front</name>
+    <impulse_responses>
+      <ll>small_concert_hall/music/1m/left_fl.wav</ll>
+      <lr>small_concert_hall/music/1m/left_fr.wav</lr>
+      <rl>small_concert_hall/music/1m/right_fl.wav</rl>
+      <rr>small_concert_hall/music/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	13.30m x 9.80m x 7.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>41</num>
+    <name>hall#1 damp#1 2m front</name>
+    <impulse_responses>
+      <ll>small_concert_hall/music/2m/left_fl.wav</ll>
+      <lr>small_concert_hall/music/2m/left_fr.wav</lr>
+      <rl>small_concert_hall/music/2m/right_fl.wav</rl>
+      <rr>small_concert_hall/music/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	13.30m x 9.80m x 7.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>42</num>
+    <name>hall#1 damp#1 4m front</name>
+    <impulse_responses>
+      <ll>small_concert_hall/music/4m/left_fl.wav</ll>
+      <lr>small_concert_hall/music/4m/left_fr.wav</lr>
+      <rl>small_concert_hall/music/4m/right_fl.wav</rl>
+      <rr>small_concert_hall/music/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	13.30m x 9.80m x 7.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>43</num>
+    <name>hall#2 damp#1 1m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/music/1m/left_fl.wav</ll>
+      <lr>large_concert_hall/music/1m/left_fr.wav</lr>
+      <rl>large_concert_hall/music/1m/right_fl.wav</rl>
+      <rr>large_concert_hall/music/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	26.60m x 19.60m x 14.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>44</num>
+    <name>hall#2 damp#1 2m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/music/2m/left_fl.wav</ll>
+      <lr>large_concert_hall/music/2m/left_fr.wav</lr>
+      <rl>large_concert_hall/music/2m/right_fl.wav</rl>
+      <rr>large_concert_hall/music/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	26.60m x 19.60m x 14.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>45</num>
+    <name>hall#2 damp#1 4m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/music/4m/left_fl.wav</ll>
+      <lr>large_concert_hall/music/4m/left_fr.wav</lr>
+      <rl>large_concert_hall/music/4m/right_fl.wav</rl>
+      <rr>large_concert_hall/music/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	26.60m x 19.60m x 14.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>46</num>
+    <name>hall#2 damp#1 8m front</name>
+    <impulse_responses>
+      <ll>large_concert_hall/music/8m/left_fl.wav</ll>
+      <lr>large_concert_hall/music/8m/left_fr.wav</lr>
+      <rl>large_concert_hall/music/8m/right_fl.wav</rl>
+      <rr>large_concert_hall/music/8m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-18.062</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	26.60m x 19.60m x 14.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>47</num>
+    <name>hall#3 damp#1 1m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/1m/left_fl.wav</ll>
+      <lr>huge_concert_hall/music/1m/left_fr.wav</lr>
+      <rl>huge_concert_hall/music/1m/right_fl.wav</rl>
+      <rr>huge_concert_hall/music/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>48</num>
+    <name>hall#3 damp#1 2m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/2m/left_fl.wav</ll>
+      <lr>huge_concert_hall/music/2m/left_fr.wav</lr>
+      <rl>huge_concert_hall/music/2m/right_fl.wav</rl>
+      <rr>huge_concert_hall/music/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>49</num>
+    <name>hall#3 damp#1 4m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/4m/left_fl.wav</ll>
+      <lr>huge_concert_hall/music/4m/left_fr.wav</lr>
+      <rl>huge_concert_hall/music/4m/right_fl.wav</rl>
+      <rr>huge_concert_hall/music/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>50</num>
+    <name>hall#3 damp#1 8m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/8m/left_fl.wav</ll>
+      <lr>huge_concert_hall/music/8m/left_fr.wav</lr>
+      <rl>huge_concert_hall/music/8m/right_fl.wav</rl>
+      <rr>huge_concert_hall/music/8m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-18.062</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>51</num>
+    <name>hall#3 damp#1 16m front</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/16m/left_fl.wav</ll>
+      <lr>huge_concert_hall/music/16m/left_fr.wav</lr>
+      <rl>huge_concert_hall/music/16m/right_fl.wav</rl>
+      <rr>huge_concert_hall/music/16m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 16m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-24.082</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	16m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>52</num>
+    <name>church damp#2 1m front</name>
+    <impulse_responses>
+      <ll>church/speech/1m/left_fl.wav</ll>
+      <lr>church/speech/1m/left_fr.wav</lr>
+      <rl>church/speech/1m/right_fl.wav</rl>
+      <rr>church/speech/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>T60: 5.5s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+T60:		5.5s
+room size:	52.36m x 17.56m x 32.20m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>53</num>
+    <name>church damp#2 2m front</name>
+    <impulse_responses>
+      <ll>church/speech/2m/left_fl.wav</ll>
+      <lr>church/speech/2m/left_fr.wav</lr>
+      <rl>church/speech/2m/right_fl.wav</rl>
+      <rr>church/speech/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>T60: 5.5s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+T60:		5.5s
+room size:	52.36m x 17.56m x 32.20m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>54</num>
+    <name>church damp#2 4m front</name>
+    <impulse_responses>
+      <ll>church/speech/4m/left_fl.wav</ll>
+      <lr>church/speech/4m/left_fr.wav</lr>
+      <rl>church/speech/4m/right_fl.wav</rl>
+      <rr>church/speech/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>T60: 5.5s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+T60:		5.5s
+room size:	52.36m x 17.56m x 32.20m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>55</num>
+    <name>church damp#2 8m front</name>
+    <impulse_responses>
+      <ll>church/speech/8m/left_fl.wav</ll>
+      <lr>church/speech/8m/left_fr.wav</lr>
+      <rl>church/speech/8m/right_fl.wav</rl>
+      <rr>church/speech/8m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>T60: 5.5s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-18.062</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+T60:		5.5s
+room size:	52.36m x 17.56m x 32.20m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>56</num>
+    <name>church damp#1 1m front</name>
+    <impulse_responses>
+      <ll>church/music/1m/left_fl.wav</ll>
+      <lr>church/music/1m/left_fr.wav</lr>
+      <rl>church/music/1m/right_fl.wav</rl>
+      <rr>church/music/1m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>T60: 8.8s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>0.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+T60:		8.8s
+room size:	52.36m x 17.56m x 32.20m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>57</num>
+    <name>church damp#1 2m front</name>
+    <impulse_responses>
+      <ll>church/music/2m/left_fl.wav</ll>
+      <lr>church/music/2m/left_fr.wav</lr>
+      <rl>church/music/2m/right_fl.wav</rl>
+      <rr>church/music/2m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>T60: 8.8s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-6.021</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+T60:		8.8s
+room size:	52.36m x 17.56m x 32.20m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>58</num>
+    <name>church damp#1 4m front</name>
+    <impulse_responses>
+      <ll>church/music/4m/left_fl.wav</ll>
+      <lr>church/music/4m/left_fr.wav</lr>
+      <rl>church/music/4m/right_fl.wav</rl>
+      <rr>church/music/4m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>T60: 8.8s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-12.041</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+T60:		8.8s
+room size:	52.36m x 17.56m x 32.20m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>59</num>
+    <name>church damp#1 8m front</name>
+    <impulse_responses>
+      <ll>church/music/8m/left_fl.wav</ll>
+      <lr>church/music/8m/left_fr.wav</lr>
+      <rl>church/music/8m/right_fl.wav</rl>
+      <rr>church/music/8m/right_fr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: front</cat_1>
+      <cat_2>T60: 8.8s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-18.062</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	front
+T60:		8.8s
+room size:	52.36m x 17.56m x 32.20m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>60</num>
+    <name>room#1 damp#3 1m rear</name>
+    <impulse_responses>
+      <ll>bathroom/education/1m/left_sl.wav</ll>
+      <lr>bathroom/education/1m/left_sr.wav</lr>
+      <rl>bathroom/education/1m/right_sl.wav</rl>
+      <rr>bathroom/education/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: bathroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	4.65m x 3.43m x 2.45m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>61</num>
+    <name>room#2 damp#3 1m rear</name>
+    <impulse_responses>
+      <ll>livingroom/education/1m/left_sl.wav</ll>
+      <lr>livingroom/education/1m/left_sr.wav</lr>
+      <rl>livingroom/education/1m/right_sl.wav</rl>
+      <rr>livingroom/education/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	6.65m x 4.90m x 3.50m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>62</num>
+    <name>room#2 damp#3 2m rear</name>
+    <impulse_responses>
+      <ll>livingroom/education/2m/left_sl.wav</ll>
+      <lr>livingroom/education/2m/left_sr.wav</lr>
+      <rl>livingroom/education/2m/right_sl.wav</rl>
+      <rr>livingroom/education/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	6.65m x 4.90m x 3.50m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>63</num>
+    <name>studio damp#3 1m rear</name>
+    <impulse_responses>
+      <ll>studio/education/1m/left_sl.wav</ll>
+      <lr>studio/education/1m/left_sr.wav</lr>
+      <rl>studio/education/1m/right_sl.wav</rl>
+      <rr>studio/education/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	9.31m x 6.86m x 4.90m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>64</num>
+    <name>studio damp#3 2m rear</name>
+    <impulse_responses>
+      <ll>studio/education/2m/left_sl.wav</ll>
+      <lr>studio/education/2m/left_sr.wav</lr>
+      <rl>studio/education/2m/right_sl.wav</rl>
+      <rr>studio/education/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	9.31m x 6.86m x 4.90m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>65</num>
+    <name>hall#1 damp#3 1m rear</name>
+    <impulse_responses>
+      <ll>small_concert_hall/education/1m/left_sl.wav</ll>
+      <lr>small_concert_hall/education/1m/left_sr.wav</lr>
+      <rl>small_concert_hall/education/1m/right_sl.wav</rl>
+      <rr>small_concert_hall/education/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	13.30m x 9.80m x 7.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>66</num>
+    <name>hall#1 damp#3 2m rear</name>
+    <impulse_responses>
+      <ll>small_concert_hall/education/2m/left_sl.wav</ll>
+      <lr>small_concert_hall/education/2m/left_sr.wav</lr>
+      <rl>small_concert_hall/education/2m/right_sl.wav</rl>
+      <rr>small_concert_hall/education/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	13.30m x 9.80m x 7.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>67</num>
+    <name>hall#1 damp#3 4m rear</name>
+    <impulse_responses>
+      <ll>small_concert_hall/education/4m/left_sl.wav</ll>
+      <lr>small_concert_hall/education/4m/left_sr.wav</lr>
+      <rl>small_concert_hall/education/4m/right_sl.wav</rl>
+      <rr>small_concert_hall/education/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	13.30m x 9.80m x 7.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>68</num>
+    <name>hall#2 damp#3 1m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/education/1m/left_sl.wav</ll>
+      <lr>large_concert_hall/education/1m/left_sr.wav</lr>
+      <rl>large_concert_hall/education/1m/right_sl.wav</rl>
+      <rr>large_concert_hall/education/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	26.60m x 19.60m x 14.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>69</num>
+    <name>hall#2 damp#3 2m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/education/2m/left_sl.wav</ll>
+      <lr>large_concert_hall/education/2m/left_sr.wav</lr>
+      <rl>large_concert_hall/education/2m/right_sl.wav</rl>
+      <rr>large_concert_hall/education/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	26.60m x 19.60m x 14.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>70</num>
+    <name>hall#2 damp#3 4m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/education/4m/left_sl.wav</ll>
+      <lr>large_concert_hall/education/4m/left_sr.wav</lr>
+      <rl>large_concert_hall/education/4m/right_sl.wav</rl>
+      <rr>large_concert_hall/education/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	26.60m x 19.60m x 14.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>71</num>
+    <name>hall#2 damp#3 8m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/education/8m/left_sl.wav</ll>
+      <lr>large_concert_hall/education/8m/left_sr.wav</lr>
+      <rl>large_concert_hall/education/8m/right_sl.wav</rl>
+      <rr>large_concert_hall/education/8m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	26.60m x 19.60m x 14.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>72</num>
+    <name>hall#3 damp#3 1m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/1m/left_sl.wav</ll>
+      <lr>huge_concert_hall/education/1m/left_sr.wav</lr>
+      <rl>huge_concert_hall/education/1m/right_sl.wav</rl>
+      <rr>huge_concert_hall/education/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>73</num>
+    <name>hall#3 damp#3 2m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/2m/left_sl.wav</ll>
+      <lr>huge_concert_hall/education/2m/left_sr.wav</lr>
+      <rl>huge_concert_hall/education/2m/right_sl.wav</rl>
+      <rr>huge_concert_hall/education/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>74</num>
+    <name>hall#3 damp#3 4m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/4m/left_sl.wav</ll>
+      <lr>huge_concert_hall/education/4m/left_sr.wav</lr>
+      <rl>huge_concert_hall/education/4m/right_sl.wav</rl>
+      <rr>huge_concert_hall/education/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>75</num>
+    <name>hall#3 damp#3 8m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/8m/left_sl.wav</ll>
+      <lr>huge_concert_hall/education/8m/left_sr.wav</lr>
+      <rl>huge_concert_hall/education/8m/right_sl.wav</rl>
+      <rr>huge_concert_hall/education/8m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>76</num>
+    <name>hall#3 damp#3 16m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/education/16m/left_sl.wav</ll>
+      <lr>huge_concert_hall/education/16m/left_sr.wav</lr>
+      <rl>huge_concert_hall/education/16m/right_sl.wav</rl>
+      <rr>huge_concert_hall/education/16m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: education</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 16m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	education
+room size:	53.20m x 39.20m x 28.00m
+distance:	16m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>77</num>
+    <name>room#1 damp#2 1m rear</name>
+    <impulse_responses>
+      <ll>bathroom/speech/1m/left_sl.wav</ll>
+      <lr>bathroom/speech/1m/left_sr.wav</lr>
+      <rl>bathroom/speech/1m/right_sl.wav</rl>
+      <rr>bathroom/speech/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: bathroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	4.65m x 3.43m x 2.45m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>78</num>
+    <name>room#2 damp#2 1m rear</name>
+    <impulse_responses>
+      <ll>livingroom/speech/1m/left_sl.wav</ll>
+      <lr>livingroom/speech/1m/left_sr.wav</lr>
+      <rl>livingroom/speech/1m/right_sl.wav</rl>
+      <rr>livingroom/speech/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	6.65m x 4.90m x 3.50m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>79</num>
+    <name>room#2 damp#2 2m rear</name>
+    <impulse_responses>
+      <ll>livingroom/speech/2m/left_sl.wav</ll>
+      <lr>livingroom/speech/2m/left_sr.wav</lr>
+      <rl>livingroom/speech/2m/right_sl.wav</rl>
+      <rr>livingroom/speech/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	6.65m x 4.90m x 3.50m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>80</num>
+    <name>studio damp#2 1m rear</name>
+    <impulse_responses>
+      <ll>studio/speech/1m/left_sl.wav</ll>
+      <lr>studio/speech/1m/left_sr.wav</lr>
+      <rl>studio/speech/1m/right_sl.wav</rl>
+      <rr>studio/speech/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	9.31m x 6.86m x 4.90m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>81</num>
+    <name>studio damp#2 2m rear</name>
+    <impulse_responses>
+      <ll>studio/speech/2m/left_sl.wav</ll>
+      <lr>studio/speech/2m/left_sr.wav</lr>
+      <rl>studio/speech/2m/right_sl.wav</rl>
+      <rr>studio/speech/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	9.31m x 6.86m x 4.90m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>82</num>
+    <name>hall#1 damp#2 1m rear</name>
+    <impulse_responses>
+      <ll>small_concert_hall/speech/1m/left_sl.wav</ll>
+      <lr>small_concert_hall/speech/1m/left_sr.wav</lr>
+      <rl>small_concert_hall/speech/1m/right_sl.wav</rl>
+      <rr>small_concert_hall/speech/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	13.30m x 9.80m x 7.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>83</num>
+    <name>hall#1 damp#2 2m rear</name>
+    <impulse_responses>
+      <ll>small_concert_hall/speech/2m/left_sl.wav</ll>
+      <lr>small_concert_hall/speech/2m/left_sr.wav</lr>
+      <rl>small_concert_hall/speech/2m/right_sl.wav</rl>
+      <rr>small_concert_hall/speech/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	13.30m x 9.80m x 7.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>84</num>
+    <name>hall#1 damp#2 4m rear</name>
+    <impulse_responses>
+      <ll>small_concert_hall/speech/4m/left_sl.wav</ll>
+      <lr>small_concert_hall/speech/4m/left_sr.wav</lr>
+      <rl>small_concert_hall/speech/4m/right_sl.wav</rl>
+      <rr>small_concert_hall/speech/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	13.30m x 9.80m x 7.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>85</num>
+    <name>hall#2 damp#2 1m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/speech/1m/left_sl.wav</ll>
+      <lr>large_concert_hall/speech/1m/left_sr.wav</lr>
+      <rl>large_concert_hall/speech/1m/right_sl.wav</rl>
+      <rr>large_concert_hall/speech/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	26.60m x 19.60m x 14.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>86</num>
+    <name>hall#2 damp#2 2m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/speech/2m/left_sl.wav</ll>
+      <lr>large_concert_hall/speech/2m/left_sr.wav</lr>
+      <rl>large_concert_hall/speech/2m/right_sl.wav</rl>
+      <rr>large_concert_hall/speech/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	26.60m x 19.60m x 14.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>87</num>
+    <name>hall#2 damp#2 4m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/speech/4m/left_sl.wav</ll>
+      <lr>large_concert_hall/speech/4m/left_sr.wav</lr>
+      <rl>large_concert_hall/speech/4m/right_sl.wav</rl>
+      <rr>large_concert_hall/speech/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	26.60m x 19.60m x 14.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>88</num>
+    <name>hall#2 damp#2 8m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/speech/8m/left_sl.wav</ll>
+      <lr>large_concert_hall/speech/8m/left_sr.wav</lr>
+      <rl>large_concert_hall/speech/8m/right_sl.wav</rl>
+      <rr>large_concert_hall/speech/8m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	26.60m x 19.60m x 14.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>89</num>
+    <name>hall#3 damp#2 1m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/1m/left_sl.wav</ll>
+      <lr>huge_concert_hall/speech/1m/left_sr.wav</lr>
+      <rl>huge_concert_hall/speech/1m/right_sl.wav</rl>
+      <rr>huge_concert_hall/speech/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>90</num>
+    <name>hall#3 damp#2 2m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/2m/left_sl.wav</ll>
+      <lr>huge_concert_hall/speech/2m/left_sr.wav</lr>
+      <rl>huge_concert_hall/speech/2m/right_sl.wav</rl>
+      <rr>huge_concert_hall/speech/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>91</num>
+    <name>hall#3 damp#2 4m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/4m/left_sl.wav</ll>
+      <lr>huge_concert_hall/speech/4m/left_sr.wav</lr>
+      <rl>huge_concert_hall/speech/4m/right_sl.wav</rl>
+      <rr>huge_concert_hall/speech/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>92</num>
+    <name>hall#3 damp#2 8m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/8m/left_sl.wav</ll>
+      <lr>huge_concert_hall/speech/8m/left_sr.wav</lr>
+      <rl>huge_concert_hall/speech/8m/right_sl.wav</rl>
+      <rr>huge_concert_hall/speech/8m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>93</num>
+    <name>hall#3 damp#2 16m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/speech/16m/left_sl.wav</ll>
+      <lr>huge_concert_hall/speech/16m/left_sr.wav</lr>
+      <rl>huge_concert_hall/speech/16m/right_sl.wav</rl>
+      <rr>huge_concert_hall/speech/16m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: speech</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 16m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	speech
+room size:	53.20m x 39.20m x 28.00m
+distance:	16m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>94</num>
+    <name>room#1 damp#1 1m rear</name>
+    <impulse_responses>
+      <ll>bathroom/music/1m/left_sl.wav</ll>
+      <lr>bathroom/music/1m/left_sr.wav</lr>
+      <rl>bathroom/music/1m/right_sl.wav</rl>
+      <rr>bathroom/music/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: bathroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	4.65m x 3.43m x 2.45m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>95</num>
+    <name>room#2 damp#1 1m rear</name>
+    <impulse_responses>
+      <ll>livingroom/music/1m/left_sl.wav</ll>
+      <lr>livingroom/music/1m/left_sr.wav</lr>
+      <rl>livingroom/music/1m/right_sl.wav</rl>
+      <rr>livingroom/music/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	6.65m x 4.90m x 3.50m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>96</num>
+    <name>room#2 damp#1 2m rear</name>
+    <impulse_responses>
+      <ll>livingroom/music/2m/left_sl.wav</ll>
+      <lr>livingroom/music/2m/left_sr.wav</lr>
+      <rl>livingroom/music/2m/right_sl.wav</rl>
+      <rr>livingroom/music/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: livingroom</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	6.65m x 4.90m x 3.50m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>97</num>
+    <name>studio damp#1 1m rear</name>
+    <impulse_responses>
+      <ll>studio/music/1m/left_sl.wav</ll>
+      <lr>studio/music/1m/left_sr.wav</lr>
+      <rl>studio/music/1m/right_sl.wav</rl>
+      <rr>studio/music/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	9.31m x 6.86m x 4.90m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>98</num>
+    <name>studio damp#1 2m rear</name>
+    <impulse_responses>
+      <ll>studio/music/2m/left_sl.wav</ll>
+      <lr>studio/music/2m/left_sr.wav</lr>
+      <rl>studio/music/2m/right_sl.wav</rl>
+      <rr>studio/music/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: studio</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	9.31m x 6.86m x 4.90m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>99</num>
+    <name>hall#1 damp#1 1m rear</name>
+    <impulse_responses>
+      <ll>small_concert_hall/music/1m/left_sl.wav</ll>
+      <lr>small_concert_hall/music/1m/left_sr.wav</lr>
+      <rl>small_concert_hall/music/1m/right_sl.wav</rl>
+      <rr>small_concert_hall/music/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	13.30m x 9.80m x 7.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>100</num>
+    <name>hall#1 damp#1 2m rear</name>
+    <impulse_responses>
+      <ll>small_concert_hall/music/2m/left_sl.wav</ll>
+      <lr>small_concert_hall/music/2m/left_sr.wav</lr>
+      <rl>small_concert_hall/music/2m/right_sl.wav</rl>
+      <rr>small_concert_hall/music/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	13.30m x 9.80m x 7.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>101</num>
+    <name>hall#1 damp#1 4m rear</name>
+    <impulse_responses>
+      <ll>small_concert_hall/music/4m/left_sl.wav</ll>
+      <lr>small_concert_hall/music/4m/left_sr.wav</lr>
+      <rl>small_concert_hall/music/4m/right_sl.wav</rl>
+      <rr>small_concert_hall/music/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: small concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	13.30m x 9.80m x 7.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>102</num>
+    <name>hall#2 damp#1 1m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/music/1m/left_sl.wav</ll>
+      <lr>large_concert_hall/music/1m/left_sr.wav</lr>
+      <rl>large_concert_hall/music/1m/right_sl.wav</rl>
+      <rr>large_concert_hall/music/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	26.60m x 19.60m x 14.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>103</num>
+    <name>hall#2 damp#1 2m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/music/2m/left_sl.wav</ll>
+      <lr>large_concert_hall/music/2m/left_sr.wav</lr>
+      <rl>large_concert_hall/music/2m/right_sl.wav</rl>
+      <rr>large_concert_hall/music/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	26.60m x 19.60m x 14.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>104</num>
+    <name>hall#2 damp#1 4m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/music/4m/left_sl.wav</ll>
+      <lr>large_concert_hall/music/4m/left_sr.wav</lr>
+      <rl>large_concert_hall/music/4m/right_sl.wav</rl>
+      <rr>large_concert_hall/music/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	26.60m x 19.60m x 14.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>105</num>
+    <name>hall#2 damp#1 8m rear</name>
+    <impulse_responses>
+      <ll>large_concert_hall/music/8m/left_sl.wav</ll>
+      <lr>large_concert_hall/music/8m/left_sr.wav</lr>
+      <rl>large_concert_hall/music/8m/right_sl.wav</rl>
+      <rr>large_concert_hall/music/8m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: large concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	26.60m x 19.60m x 14.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>106</num>
+    <name>hall#3 damp#1 1m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/1m/left_sl.wav</ll>
+      <lr>huge_concert_hall/music/1m/left_sr.wav</lr>
+      <rl>huge_concert_hall/music/1m/right_sl.wav</rl>
+      <rr>huge_concert_hall/music/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>107</num>
+    <name>hall#3 damp#1 2m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/2m/left_sl.wav</ll>
+      <lr>huge_concert_hall/music/2m/left_sr.wav</lr>
+      <rl>huge_concert_hall/music/2m/right_sl.wav</rl>
+      <rr>huge_concert_hall/music/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>108</num>
+    <name>hall#3 damp#1 4m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/4m/left_sl.wav</ll>
+      <lr>huge_concert_hall/music/4m/left_sr.wav</lr>
+      <rl>huge_concert_hall/music/4m/right_sl.wav</rl>
+      <rr>huge_concert_hall/music/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>109</num>
+    <name>hall#3 damp#1 8m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/8m/left_sl.wav</ll>
+      <lr>huge_concert_hall/music/8m/left_sr.wav</lr>
+      <rl>huge_concert_hall/music/8m/right_sl.wav</rl>
+      <rr>huge_concert_hall/music/8m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>110</num>
+    <name>hall#3 damp#1 16m rear</name>
+    <impulse_responses>
+      <ll>huge_concert_hall/music/16m/left_sl.wav</ll>
+      <lr>huge_concert_hall/music/16m/left_sr.wav</lr>
+      <rl>huge_concert_hall/music/16m/right_sl.wav</rl>
+      <rr>huge_concert_hall/music/16m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>purpose: music</cat_2>
+      <cat_3>room: huge concert hall</cat_3>
+      <cat_4>distance: 16m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+purpose:	music
+room size:	53.20m x 39.20m x 28.00m
+distance:	16m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>111</num>
+    <name>church damp#2 1m rear</name>
+    <impulse_responses>
+      <ll>church/speech/1m/left_sl.wav</ll>
+      <lr>church/speech/1m/left_sr.wav</lr>
+      <rl>church/speech/1m/right_sl.wav</rl>
+      <rr>church/speech/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>T60: 5.5s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+T60:		5.5s
+room size:	52.36m x 17.56m x 32.20m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>112</num>
+    <name>church damp#2 2m rear</name>
+    <impulse_responses>
+      <ll>church/speech/2m/left_sl.wav</ll>
+      <lr>church/speech/2m/left_sr.wav</lr>
+      <rl>church/speech/2m/right_sl.wav</rl>
+      <rr>church/speech/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>T60: 5.5s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+T60:		5.5s
+room size:	52.36m x 17.56m x 32.20m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>113</num>
+    <name>church damp#2 4m rear</name>
+    <impulse_responses>
+      <ll>church/speech/4m/left_sl.wav</ll>
+      <lr>church/speech/4m/left_sr.wav</lr>
+      <rl>church/speech/4m/right_sl.wav</rl>
+      <rr>church/speech/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>T60: 5.5s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+T60:		5.5s
+room size:	52.36m x 17.56m x 32.20m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>114</num>
+    <name>church damp#2 8m rear</name>
+    <impulse_responses>
+      <ll>church/speech/8m/left_sl.wav</ll>
+      <lr>church/speech/8m/left_sr.wav</lr>
+      <rl>church/speech/8m/right_sl.wav</rl>
+      <rr>church/speech/8m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>T60: 5.5s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+T60:		5.5s
+room size:	52.36m x 17.56m x 32.20m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>115</num>
+    <name>church damp#1 1m rear</name>
+    <impulse_responses>
+      <ll>church/music/1m/left_sl.wav</ll>
+      <lr>church/music/1m/left_sr.wav</lr>
+      <rl>church/music/1m/right_sl.wav</rl>
+      <rr>church/music/1m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>T60: 8.8s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 1m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+T60:		8.8s
+room size:	52.36m x 17.56m x 32.20m
+distance:	1m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>116</num>
+    <name>church damp#1 2m rear</name>
+    <impulse_responses>
+      <ll>church/music/2m/left_sl.wav</ll>
+      <lr>church/music/2m/left_sr.wav</lr>
+      <rl>church/music/2m/right_sl.wav</rl>
+      <rr>church/music/2m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>T60: 8.8s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 2m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+T60:		8.8s
+room size:	52.36m x 17.56m x 32.20m
+distance:	2m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>117</num>
+    <name>church damp#1 4m rear</name>
+    <impulse_responses>
+      <ll>church/music/4m/left_sl.wav</ll>
+      <lr>church/music/4m/left_sr.wav</lr>
+      <rl>church/music/4m/right_sl.wav</rl>
+      <rr>church/music/4m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>T60: 8.8s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 4m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+T60:		8.8s
+room size:	52.36m x 17.56m x 32.20m
+distance:	4m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+  <preset>
+    <num>118</num>
+    <name>church damp#1 8m rear</name>
+    <impulse_responses>
+      <ll>church/music/8m/left_sl.wav</ll>
+      <lr>church/music/8m/left_sr.wav</lr>
+      <rl>church/music/8m/right_sl.wav</rl>
+      <rr>church/music/8m/right_sr.wav</rr>
+    </impulse_responses>
+    <category>
+      <cat_1>playback: rear</cat_1>
+      <cat_2>T60: 8.8s</cat_2>
+      <cat_3>room: church</cat_3>
+      <cat_4>distance: 8m</cat_4>
+    </category>
+    <param_gain_delay>
+      <dry_gain>-120.000</dry_gain>
+    </param_gain_delay>
+    <notes>Author:		Christian Bor&#223;
+Date:		18.08.2009
+Copyright:	(C) 2009 by Institute of Communication Acoustics,
+		Ruhr Universit&#228;t Bochum, Germany
+URL:		http://www.ruhr-uni-bochum.de/ika/
+
+
+These impulse responses are property of the Institute of Communication Acoustics, Ruhr Universit&#228;t Bochum, Germany. They are free for non-commercial use. For commercial use, please contact &lt;rainer.martin@ruhr-uni-bochum.de&gt;.
+
+They were generated with "tinyAVE", the auralization software I developed for my doctoral thesis: http://www.ruhr-uni-bochum.de/ika/ika/forschung/gruppe_martin/hum_mach_interf/aud_virtual_environment/tinyAVE_engl.htm
+
+
+The following parameters were used for the synthesis:
+
+playback:	rear
+T60:		8.8s
+room size:	52.36m x 17.56m x 32.20m
+distance:	8m
+
+
+Best regards,
+Christian Bor&#223;</notes>
+  </preset>
+</root>
